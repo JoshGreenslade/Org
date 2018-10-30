@@ -1,9 +1,9 @@
 #+TODO: TODO WAITING INPROGRESS | DONE CANCELLED
 
 
+
+
 * Tasks
       
-** TODO Markup Tai-Ans Paper                                           :Work:
-   DEADLINE: <2018-11-02 Fri>
-** TODO Markup Lewis's Draft
+** TODO Markup Lewis's Draft                                           :Work:
    DEADLINE: <2018-11-02 Fri>
