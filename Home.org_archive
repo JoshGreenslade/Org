@@ -145,3 +145,45 @@ Archived entries from file c:/Users/Kim/org/Home.org
   :ARCHIVE_CATEGORY: Home
   :ARCHIVE_TODO: DONE
   :END:
+
+* DONE Doctors appointment, West Meeds, Thursday 25th October, 12:10   :Home:
+  CLOSED: [2018-10-30 Tue 13:23] SCHEDULED: <2018-10-25 Thu>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2018-10-30 Tue 13:23
+  :ARCHIVE_FILE: ~/storage/downloads/Org/Home.org
+  :ARCHIVE_OLPATH: Personal Tasks
+  :ARCHIVE_CATEGORY: Home
+  :ARCHIVE_TODO: DONE
+  :END:
+   
+
+* DONE Respond to London Contract  
+  CLOSED: [2018-10-30 Tue 13:24]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2018-10-30 Tue 13:24
+  :ARCHIVE_FILE: ~/storage/downloads/Org/Home.org
+  :ARCHIVE_OLPATH: Personal Tasks
+  :ARCHIVE_CATEGORY: Home
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* TODO Clean The House                                           :Daily:Home:
+  :PROPERTIES:
+  :LAST_REPEAT: [2018-10-19 Fri 14:21]
+  :ARCHIVE_TIME: 2018-10-30 Tue 13:25
+  :ARCHIVE_FILE: ~/storage/downloads/Org/Home.org
+  :ARCHIVE_OLPATH: House Tasks
+  :ARCHIVE_CATEGORY: Home
+  :ARCHIVE_TODO: TODO
+  :END:
+  - State "DONE"       from "WAITING"    [2018-10-19 Fri 14:21]
+  - State "DONE"       from "WAITING"    [2018-10-18 Thu 12:39]
+  - State "DONE"       from "WAITING"    [2018-10-18 Thu 12:39]
+  - State "DONE"       from "WAITING"    [2018-10-18 Thu 12:39]
+  - State "DONE"       from "WAITING"    [2018-10-18 Thu 12:38]
+  - State "DONE"       from "WAITING"    [2018-10-18 Thu 12:38]
+  - State "DONE"       from "WAITING"    [2018-10-17 Wed 09:08]
+  - State "DONE"       from "WAITING"    [2018-10-12 Fri 12:58]
+  - State "DONE"       from "WAITING"    [2018-10-11 Thu 21:54]
+  - State "DONE"       from "WAITING"    [2018-10-10 Wed 19:53]
+  - State "DONE"       from "TODO"       [2018-10-09 Tue 19:12]

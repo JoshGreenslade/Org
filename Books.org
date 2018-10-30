@@ -3,9 +3,3 @@
 * Books
 
 ** TOREAD Homo Deus: A Brief History of Tomorrow - Yuval Noa :Science:Serious:Futurism:
-** READING Unreachable Skies - Karen McCreedy :Books:ScienceFiction:NewAuthor:Daily:
-   SCHEDULED: <2018-10-15 Mon +1d>
-   :PROPERTIES:
-   :LAST_REPEAT: [2018-10-14 Sun 12:05]
-   :END:
-   - State "COMPLETED"  from "READING"    [2018-10-14 Sun 12:05]

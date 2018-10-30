@@ -3,27 +3,7 @@
 
 * Tasks
       
-** TODO Work Through Astrostatistics books [4/9]                       :Work:
-   - [X] Chapter 1
-   - [X] Chapter 2
-   - [X] Chapter 3
-   - [X] Chapter 4
-   - [ ] Chapter 5
-   - [ ] Chapter 6
-   - [ ] Chapter 7
-   - [ ] Chapter 8
-   - [ ] Chapter 9
 ** TODO Markup Tai-Ans Paper                                           :Work:
-   DEADLINE: <2018-10-31 Wed>
-** TODO Revise CO transitions                                          :Work:
-** TODO CO to H2 Conversions                                           :Work:
-** TODO Re-Read Chapter 3                                              :Work:
-** TODO ReRead Geach 2016                                              :Work:
-** TODO Examine DSFG luminosity function                               :Work:
-** TODO Galaxy Formation and Evolution papers                          :Work:
-*** Baugh 2005
-*** Bethermin 2015 (?)
-*** Others? Granatos latest?
-** TODO Read through and comment on Lewis's draft                      :Work:
-   DEADLINE: <2018-11-05 Mon>
-** TODO Prepare ~20 minute presentation on Thesis                      :Work:
+   DEADLINE: <2018-11-02 Fri>
+** TODO Markup Lewis's Draft
+   DEADLINE: <2018-11-02 Fri>

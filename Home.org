@@ -3,22 +3,6 @@
 * House Tasks
 
 
-** TODO Clean The House                                          :Daily:Home:
-   SCHEDULED: <2018-10-20 Sat +1d>
-   :PROPERTIES:
-   :LAST_REPEAT: [2018-10-19 Fri 14:21]
-   :END:
-   - State "DONE"       from "WAITING"    [2018-10-19 Fri 14:21]
-   - State "DONE"       from "WAITING"    [2018-10-18 Thu 12:39]
-   - State "DONE"       from "WAITING"    [2018-10-18 Thu 12:39]
-   - State "DONE"       from "WAITING"    [2018-10-18 Thu 12:39]
-   - State "DONE"       from "WAITING"    [2018-10-18 Thu 12:38]
-   - State "DONE"       from "WAITING"    [2018-10-18 Thu 12:38]
-   - State "DONE"       from "WAITING"    [2018-10-17 Wed 09:08]
-   - State "DONE"       from "WAITING"    [2018-10-12 Fri 12:58]
-   - State "DONE"       from "WAITING"    [2018-10-11 Thu 21:54]
-   - State "DONE"       from "WAITING"    [2018-10-10 Wed 19:53]
-   - State "DONE"       from "TODO"       [2018-10-09 Tue 19:12]
 ** WAITING Legal Convayancing                                          :Home:
    DEADLINE: <2018-10-22 Mon>
    - Note taken on [2018-10-22 Mon 11:01] \\
@@ -50,9 +34,5 @@
      Waiting for Chris to respond to question about whether flights + accomidation can be booked in November / December
 ** TODO Respond to Arun eligibility questionaire.                      :Home:
 ** TODO Pick up adaptor for dads razo                                  :Home:
-** WAITING Doctors appointment, West Meeds, Thursday 25th October, 12:10 :Home:
-   SCHEDULED: <2018-10-25 Thu>
-   
 ** WAITING Tim and Ems Wedding                                         :Home:
    DEADLINE: <2020-02-22 Sat>
-** WAITING Respond to London Contract  
