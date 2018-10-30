@@ -1,0 +1,135 @@
+
+Archived entries from file c:/Users/Kim/org/Work.org
+
+
+* DONE Book Trains to London Tuesday 16th October
+  CLOSED: [2018-10-12 Fri 12:56] DEADLINE: <2018-10-12 Fri>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2018-10-12 Fri 12:56
+  :ARCHIVE_FILE: ~/org/Work.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: Work
+  :ARCHIVE_TODO: DONE
+  :END:
+
+Archived entries from file c:/Users/Kim/org/Work.org
+
+
+* DONE Reply to Duncan 
+  CLOSED: [2018-10-12 Fri 11:42] DEADLINE: <2018-10-12 Fri>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2018-10-12 Fri 12:57
+  :ARCHIVE_FILE: ~/org/Work.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: Work
+  :ARCHIVE_TODO: DONE
+  :END:
+
+Archived entries from file c:/Users/Kim/org/Work.org
+
+
+* DONE Look at the thing. 
+  CLOSED: [2018-10-12 Fri 15:20] DEADLINE: <2018-10-14 Sun> SCHEDULED: <2018-10-13 Sat>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2018-10-12 Fri 15:20
+  :ARCHIVE_FILE: ~/org/Work.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: Work
+  :ARCHIVE_TODO: DONE
+  :END:
+  - Note taken on [2018-10-12 Fri 15:17] \\
+    Remember the other thing
+  - [ ] Doine thing 1?
+  - [ ] Done thing two?
+
+    Remember to do all of the thing
+
+Archived entries from file c:/Users/Kim/org/Work.org
+
+
+* DONE Test Archive
+  CLOSED: [2018-10-12 Fri 15:22]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2018-10-12 Fri 15:22
+  :ARCHIVE_FILE: ~/org/Work.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: Work
+  :ARCHIVE_TODO: TODO
+  :END:
+
+* DONE Visit London Tuesday 16th October                               :Work:
+  CLOSED: [2018-10-17 Wed 09:08] SCHEDULED: <2018-10-16 Tue>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2018-10-17 Wed 09:08
+  :ARCHIVE_FILE: ~/org/Work.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: Work
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE [#A] Markup Chapter Three of Thesis                             :Work:
+  CLOSED: [2018-10-18 Thu 12:21]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2018-10-18 Thu 12:22
+  :ARCHIVE_FILE: ~/org/Work.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: Work
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE [#A] Markup Chapter Three of Thesis                             :Work:
+  CLOSED: [2018-10-18 Thu 12:21]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2018-10-18 Thu 12:22
+  :ARCHIVE_FILE: ~/org/Work.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: Work
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE Revise Nyquist Sampling                                         :Work:
+  CLOSED: [2018-10-18 Thu 19:51]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2018-10-18 Thu 19:51
+  :ARCHIVE_FILE: ~/org/Work.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: Work
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE [#A] Markup Chapter Four of Thesis                              :Work:
+  CLOSED: [2018-10-19 Fri 12:48]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2018-10-19 Fri 12:48
+  :ARCHIVE_FILE: ~/org/Work.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: Work
+  :ARCHIVE_TODO: DONE
+  :END:
+
+
+* DONE Revise Interferomerty Understanding     [4/6]                   :Work:
+  CLOSED: [2018-10-22 Mon 16:07]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2018-10-22 Mon 16:07
+  :ARCHIVE_FILE: ~/org/Work.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: Work
+  :ARCHIVE_TODO: DONE
+  :END:
+
+  - Note taken on [2018-10-18 Thu 13:16] \\
+    I've had a good look through all this, and still don't really understand. 
+     
+    I think one more afternoon of examination is probably the best I can do
+  DEADLINE: <2018-10-16 Tue> SCHEDULED: <2018-10-13 Sat>
+
+  Interferometry is important to chapter 3 of the thesis. Understanding the terms and practicallities surrounding interfermetry will be key to a good Viva.
+  The interferometer can be broken down into various tasks:
+
+1. [X] Understand the mathematical principles behind interferometers
+2. [X] (Optional) This might include simulation of a basic interferometer using Jupyter notebook.
+3. [X] Understand the terminology behind "Visibillities" "Weighting" and "Fourier Transforms"
+4. [X] Understand how one goes from a set of Visibilities to an image, and why interferometers aren't sensitive to certain "Scales"
+5. [ ] Place all this in the context of Chapter 3 of your Thesis, and understand the limits and problems that might produc
+6. [ ] Understand why an interferometer can be used as both an imager and a spectrometer. 
