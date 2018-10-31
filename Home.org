@@ -23,10 +23,17 @@
    DEADLINE: <2018-10-31 Wed>
 
 
+** TODO Clean the room                                                 :Home:
+** TODO Obtain floor based seating                                     :Home:
+** TODO Hang mirror up somewhere                                       :Home:
+** TODO Do big food shop                                               :Home:
+** TODO Obtain a desk plant                                            :Home:
+
 * Personal Tasks
 
 
-** WAITING Respond to Chris and Rutas Wedding Invitation
+
+** WAITING Respond to Chris and Rutas Wedding Invitation               :Home:
    DEADLINE: <2018-11-19 Mon>
    - Note taken on [2018-10-14 Sun 11:30] \\
      Chris suggests waiting until November / December time should be fine
@@ -36,3 +43,8 @@
 ** TODO Pick up adaptor for dads razo                                  :Home:
 ** WAITING Tim and Ems Wedding                                         :Home:
    DEADLINE: <2020-02-22 Sat>
+
+* Projects
+
+** Economical simulator V3
+*** TODO Plan out goals and route                             :Home:Projects:
