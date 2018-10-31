@@ -19,10 +19,6 @@
    - Note taken on [2018-10-18 Thu 13:15] \\
      Waiting on Faye to have a look through the documents
 
-** TODO Conyancing call On Wednesday, 14:30                            :Home:
-   DEADLINE: <2018-10-31 Wed>
-
-
 ** TODO Clean the room                                                 :Home:
 ** TODO Obtain floor based seating                                     :Home:
 ** TODO Hang mirror up somewhere                                       :Home:
