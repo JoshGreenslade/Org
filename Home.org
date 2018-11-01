@@ -27,8 +27,6 @@
 
 * Personal Tasks
 
-
-
 ** WAITING Respond to Chris and Rutas Wedding Invitation               :Home:
    DEADLINE: <2018-11-19 Mon>
    - Note taken on [2018-10-14 Sun 11:30] \\
@@ -39,6 +37,8 @@
 ** TODO Pick up adaptor for dads razo                                  :Home:
 ** WAITING Tim and Ems Wedding                                         :Home:
    DEADLINE: <2020-02-22 Sat>
+
+** TODO Tell Keri about Podcast
 
 * Projects
 
