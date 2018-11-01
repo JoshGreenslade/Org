@@ -7,11 +7,12 @@
       
 ** TODO Markup Lewis's Draft                                           :Work:
    DEADLINE: <2018-11-02 Fri>
-** TODO Print off Heathers CV                                          :Work:
-   SCHEDULED: <2018-10-31 Wed>
 ** TODO Lock in Board Game Evening                                     :Work:
    SCHEDULED: <2018-11-04 Sun>
 
+** TODO Meeting With Joe RE Interferometry, Monday 13:00               :Work:
+   SCHEDULED: <2018-11-05 Mon>
+** TODO Respond to Christmas dates`                                    :Work:
 * Projects
 
 ** 3D Planet Printing
