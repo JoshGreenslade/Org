@@ -19,10 +19,9 @@
    - Note taken on [2018-10-18 Thu 13:15] \\
      Waiting on Faye to have a look through the documents
 
-** TODO Clean the room                                                 :Home:
+** WAITING Clean the room                                              :Home:
 ** TODO Obtain floor based seating                                     :Home:
 ** TODO Hang mirror up somewhere                                       :Home:
-** TODO Do big food shop                                               :Home:
 ** TODO Obtain a desk plant                                            :Home:
 
 * Personal Tasks
@@ -33,7 +32,6 @@
      Chris suggests waiting until November / December time should be fine
    - Note taken on [2018-10-12 Fri 12:59] \\
      Waiting for Chris to respond to question about whether flights + accomidation can be booked in November / December
-** TODO Respond to Arun eligibility questionaire.                      :Home:
 ** TODO Pick up adaptor for dads razo                                  :Home:
 ** WAITING Tim and Ems Wedding                                         :Home:
    DEADLINE: <2020-02-22 Sat>

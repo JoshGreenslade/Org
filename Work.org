@@ -10,10 +10,9 @@
 
 ** TODO Meeting With Joe RE Interferometry, Monday 13:00               :Work:
    SCHEDULED: <2018-11-05 Mon>
-** TODO Respond to Christmas dates`                                    :Work:
-** TODO Send Louise Passport and references                            :Work:
+** TODO Read through CMB paper                                         :Work:
+
 * Projects
 
+
 ** 3D Planet Printing
-*** TODO Email HackSpace and Phillipe to set up meeting early next week. :Work:
-    SCHEDULED: <2018-10-31 Wed>
