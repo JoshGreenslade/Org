@@ -36,6 +36,7 @@
 ** WAITING Tim and Ems Wedding                                         :Home:
    DEADLINE: <2020-02-22 Sat>
 
+** TODO Purchase Cirque de sol tickets                                 :Home:
 * Projects
 
 ** Economical simulator V3
