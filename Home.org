@@ -38,8 +38,6 @@
 ** WAITING Tim and Ems Wedding                                         :Home:
    DEADLINE: <2020-02-22 Sat>
 
-** TODO Tell Keri about Podcast
-
 * Projects
 
 ** Economical simulator V3
