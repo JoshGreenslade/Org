@@ -21,6 +21,8 @@
 
 ** WAITING Clean the room                                              :Home:
 ** TODO Obtain floor based seating                                     :Home:
+   - Note taken on [2018-11-03 Sat 19:04] \\
+     Mum Suggests Ikea / argos for cheap / camping chairs!
 ** TODO Hang mirror up somewhere                                       :Home:
 ** TODO Obtain a desk plant                                            :Home:
 
@@ -39,5 +41,10 @@
 ** TODO Purchase Cirque de sol tickets                                 :Home:
 * Projects
 
-** Economical simulator V3
-*** TODO Plan out goals and route                             :Home:Projects:
+** Economical simulator V3                                    :EconomicalSim:
+*** TODO Plan out goals and route
+** Fix Old Chromebook                                         :FixChromebook:
+*** WAITING Attempt a Standard USB recovery 
+    - Note taken on [2018-11-03 Sat 19:03] \\
+      Purchased a 16GB usb stick to attempt recovery with. 
+      Awaiting arrival of that.
