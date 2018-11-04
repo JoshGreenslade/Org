@@ -15,7 +15,5 @@
 
 
 ** 3D Planet Printing                                         :3DPlanetPrint:
-*** TODO Read through CMB paper                                       
-
 ** Imperial Lates Talks                                       :ImperialLates:
 *** TODO Send an email to Imperial lates asking about format
