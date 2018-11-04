@@ -5,9 +5,9 @@
 
 * Tasks
       
-** TODO Lock in Board Game Evening                                     :Work:
-   SCHEDULED: <2018-11-04 Sun>
-
+** TODO Board Game Evening, Wednesday 8th November,18:00
+   SCHEDULED: <2018-11-07 Wed>
+*** TODO Confirm nothing is taking place Wednesday Evening in Level 8
 ** TODO Meeting With Joe RE Interferometry, Monday 13:00               :Work:
    SCHEDULED: <2018-11-05 Mon>
 
@@ -18,4 +18,4 @@
 *** TODO Read through CMB paper                                       
 
 ** Imperial Lates Talks                                       :ImperialLates:
-*** TODO Send an email to Imperial lates asking about formatt
+*** TODO Send an email to Imperial lates asking about format

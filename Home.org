@@ -3,9 +3,9 @@
 * House Tasks
 
 
-** WAITING Legal Convayancing                                          :Home:
+** TODO Legal Convayancing                                             :Home:
    DEADLINE: <2018-10-22 Mon>
-   - Note taken on [2018-10-22 Mon 11:01] \\
+   - Note taken on [2018-10-22 Mon 11:01] \ 
      Asking Chris and Faye RE whether its worth one of them handling the legal side owing to my weird status
 ** TODO Pick up Dads passport/ID                                       :Home:
 
@@ -19,11 +19,9 @@
    - Note taken on [2018-10-18 Thu 13:15] \\
      Waiting on Faye to have a look through the documents
 
-** WAITING Clean the room                                              :Home:
 ** TODO Obtain floor based seating                                     :Home:
    - Note taken on [2018-11-03 Sat 19:04] \\
      Mum Suggests Ikea / argos for cheap / camping chairs!
-** TODO Hang mirror up somewhere                                       :Home:
 ** TODO Obtain a desk plant                                            :Home:
 
 * Personal Tasks
