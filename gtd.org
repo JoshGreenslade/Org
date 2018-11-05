@@ -2,15 +2,13 @@
 
 ** Home_Projects                                                   :Projects:
 *** Improve home Living                                          :HomeImprov:
-**** TODO Go To Ikea
+**** Go To Ikea                                                        :Ikea:
 ***** TODO Obtain floor based seating  
 ***** TODO Obtain a desk plant 
 *** Economical Simulator                                             :EcoSim:
 **** TODO Plan out V3 of Eco simulator 
 *** Fix Old Chromebook                                        :FixChromebook:
 ** Home_Tasks                                                         :Tasks:
-*** TODO Legal Convayancing 
-    SCHEDULED: <2018-11-05 Mon>
 *** TODO Pick up Dads Passport from Gma's 
 *** TODO Book Dentists appointment 
 *** TODO Book Leichester Trains
