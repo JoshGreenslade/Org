@@ -1,0 +1,27 @@
+* Home Tasks                                                          :Home:
+
+** Home_Projects                                                   :Projects:
+*** Improve home Living                                          :HomeImprov:
+**** TODO Go To Ikea
+***** TODO Obtain floor based seating  
+***** TODO Obtain a desk plant 
+*** Economical Simulator                                             :EcoSim:
+**** TODO Plan out V3 of Eco simulator 
+*** Fix Old Chromebook                                        :FixChromebook:
+**** TODO Attempt a USB recovery on the chromebook  
+** Home_Tasks                                                         :Tasks:
+*** TODO Legal Convayancing 
+*** TODO Pick up Dads Passport from Gma's 
+* Work Tasks                                                          :Work:
+
+** Work_Projects                                                   :Projects:
+*** Imperial Lates Talks                                 :ImperialLatesTalks:
+**** TODO Email Imperial Lates regarding how they do it  
+*** 3D Planet Printing                                       :3dPlanets:
+**** TODO Email folk back and confirm initial meeting times  
+*** Make Corrections to Thesis                            :ThesisCorrections:
+**** TODO Complete Jims corrections 
+**** TODO Complete Steves Corrections
+** Work_Tasks                                                         :Tasks:
+*** TODO Confirm nothing is taking place Weds evening in level 8  
+* Misc Tasks                                                          :Misc:
