@@ -10,17 +10,67 @@
 *** Fix Old Chromebook                                        :FixChromebook:
 ** Home_Tasks                                                         :Tasks:
 *** TODO Legal Convayancing 
+    SCHEDULED: <2018-11-05 Mon>
 *** TODO Pick up Dads Passport from Gma's 
+*** TODO Book Dentists appointment 
+*** TODO Book Leichester Trains
 * Work Tasks                                                          :Work:
 
 ** Work_Projects                                                   :Projects:
 *** Imperial Lates Talks                                 :ImperialLatesTalks:
 **** TODO Email Imperial Lates regarding how they do it  
+     SCHEDULED: <2018-11-05 Mon>
+     - Note taken on [2018-11-05 Mon 17:15] \\
+       Lets wait off on this till post staff meeting. If we get the go ahead we can run with it
 *** 3D Planet Printing                                       :3dPlanets:
-**** TODO Email folk back and confirm initial meeting times  
+**** DONE Email folk back and confirm initial meeting times  
+     CLOSED: [2018-11-05 Mon 18:01]
+     - Note taken on [2018-11-05 Mon 18:01] \\
+       Waiting on Confirmation before achiving
+**** TODO Get topographical data on as many planets + moons as you can
+***** Mercury 
+***** Venus
+***** Earth
+****** Moon
+***** Mars
+***** Asteroid-Belt / Generic intresting
+****** Ceres
+****** 67P
+***** Jupiter?
+****** Europa 
+****** Ganymede
+****** Io
+****** Callisto
+***** Saturn? 
+****** Titan
+****** Rhea
+****** Iapetus
+****** Dione
+****** Tethys
+****** Enceladus
+****** Mimas
+***** Uranus?
+****** Titania
+****** Oberon
+****** Umbriel
+****** Ariel
+****** Miranda
+***** Neptune?
+****** Triton
+***** Pluto
+***** Cosmic
+****** CMB
+****** Milky Way Magnetic Field
+****** Stars?
+       - Note taken on [2018-11-05 Mon 18:20] \\
+         This is a cool idea! Certainly for the visually impaired!
+****** Galaxies?
 *** Make Corrections to Thesis                            :ThesisCorrections:
 **** TODO Complete Jims corrections 
 **** TODO Complete Steves Corrections
+*** Write NGP6 Dropout Paper 
+**** TODO Re-read NGP6_paper, noting down changes + corrections 
 ** Work_Tasks                                                         :Tasks:
 *** TODO Confirm nothing is taking place Weds evening in level 8  
+*** TODO Ask dave ifborrow planets 
 * Misc Tasks                                                          :Misc:
