@@ -8,7 +8,6 @@
 *** Economical Simulator                                             :EcoSim:
 **** TODO Plan out V3 of Eco simulator 
 *** Fix Old Chromebook                                        :FixChromebook:
-**** TODO Attempt a USB recovery on the chromebook  
 ** Home_Tasks                                                         :Tasks:
 *** TODO Legal Convayancing 
 *** TODO Pick up Dads Passport from Gma's 
