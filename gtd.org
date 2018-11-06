@@ -1,4 +1,4 @@
-* Home Tasks                                                          :Home:
+* Home                                                          :Home:
 
 ** Home_Projects                                                   :Projects:
 *** Improve home Living                                          :HomeImprov:
@@ -12,7 +12,7 @@
 *** TODO Pick up Dads Passport from Gma's 
 *** TODO Book Dentists appointment 
 *** TODO Book Leichester Trains
-* Work Tasks                                                          :Work:
+* Work                                                          :Work:
 
 ** Work_Projects                                                   :Projects:
 *** Imperial Lates Talks                                 :ImperialLatesTalks:
@@ -20,6 +20,9 @@
      SCHEDULED: <2018-11-05 Mon>
      - Note taken on [2018-11-05 Mon 17:15] \\
        Lets wait off on this till post staff meeting. If we get the go ahead we can run with it
+**** TODO Email group regarding Imperial Lates talks 
+**** TODO Confirm dates for first talk
+**** TODO Confirm Speaker for first talk
 *** 3D Planet Printing                                       :3dPlanets:
 **** DONE Email folk back and confirm initial meeting times  
      CLOSED: [2018-11-05 Mon 18:01]
@@ -64,11 +67,14 @@
          This is a cool idea! Certainly for the visually impaired!
 ****** Galaxies?
 *** Make Corrections to Thesis                            :ThesisCorrections:
-**** TODO Complete Jims corrections 
 **** TODO Complete Steves Corrections
-*** Write NGP6 Dropout Paper 
+*** Write NGP6 Dropout Paper                                           :NGP6:
 **** TODO Re-read NGP6_paper, noting down changes + corrections 
+*** Teach Joe Interferometry Data Reductions                   :JoeInterfero:
+**** TODO Install CASA
+
 ** Work_Tasks                                                         :Tasks:
-*** TODO Confirm nothing is taking place Weds evening in level 8  
-*** TODO Ask dave ifborrow planets 
-* Misc Tasks                                                          :Misc:
+*** TODO Make SpaceUp Talk 
+    DEADLINE: <2018-11-14 Wed>
+*** TODO Go through Emilys contract 
+* Misc                                                          :Misc:
