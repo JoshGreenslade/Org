@@ -1,1 +1,4 @@
-* Tasks
+* Tasks                                                               :Inbox:
+** TODO Obtain RAM 
+** TODO Obtain Copyright requests for figures in the introduction, and the single one in the conclusion 
+** TODO Reproduce Galliano 2006 
