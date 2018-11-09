@@ -13,19 +13,14 @@
 *** TODO Book Dentists appointment 
 *** TODO Book Leichester Trains
 *** TODO Reply to Annie from RAS 
-*** Black Holes, LSE, Public event. Ask Heather / Henry 
 * Work                                                          :Work:
 
 ** Work_Projects                                                   :Projects:
 *** Imperial Lates Talks                                 :ImperialLatesTalks:
-**** TODO Email group regarding Imperial Lates talks 
 **** TODO Confirm dates for first talk
 **** TODO Confirm Speaker for first talk
+**** TODO Establish whether you want to run this a series of a one-off. 
 *** 3D Planet Printing                                       :3dPlanets:
-**** DONE Email folk back and confirm initial meeting times  
-     CLOSED: [2018-11-05 Mon 18:01]
-     - Note taken on [2018-11-05 Mon 18:01] \\
-       Waiting on Confirmation before achiving
 **** TODO Get topographical data on as many planets + moons as you can
 ***** Mercury 
 ***** Venus
@@ -64,6 +59,9 @@
        - Note taken on [2018-11-05 Mon 18:20] \\
          This is a cool idea! Certainly for the visually impaired!
 ****** Galaxies?
+**** TODO Get into the hackspace....somehow 
+     SCHEDULED: <2018-11-13 Tue>
+**** TODO Print a tiny bulbasaur
 *** DONE Make Corrections to Thesis                       :ThesisCorrections:
     CLOSED: [2018-11-07 Wed 13:37]
     - Note taken on [2018-11-07 Wed 13:37] \\
@@ -73,21 +71,14 @@
 *** Teach Joe Interferometry Data Reductions                   :JoeInterfero:
     - Note taken on [2018-11-07 Wed 14:08] \\
       It's likely we'll use MIR for calibration and CASA for imaging
-**** TODO Get Joe a guest account at the CFA
 **** TODO Go through basic interferometry data reduction again yourself  
-**** TODO Verify that the SMA-guest account can be used for reduction 
 *** Get Paid 
     - Note taken on [2018-11-07 Wed 17:07] \\
       (Personally) feel like HR were quite condescending. Whilst appriciating my position, comments such as "It's just one of those strange quirks" were made, and the HR manager didn't seem to be too fussed about the situation. In her defense however, she did try to think of alternative solutions such as the salary advance
-**** TODO Get in contact with Union 
-     SCHEDULED: <2018-11-12 Mon>
-     - Note taken on [2018-11-08 Thu 10:29] \\
-       Holding off for now, Re-exaimine on Monday
 **** TODO Pick up degree from Bognor Regis 
 ** Work_Tasks                                                         :Tasks:
 *** TODO Make SpaceUp Talk 
     DEADLINE: <2018-11-14 Wed>
 *** TODO Owe George 3.38 
 *** TODO Owe Joe 3.38
-*** TODO Check the number counts for Tai-an 
 * Misc                                                                 :Misc:
