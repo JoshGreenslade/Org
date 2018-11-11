@@ -3,7 +3,6 @@
 ** TODO Book Chris and Rutas Wedding Flights+accomidation 
 ** TODO Book accomidation and flights for Tim+Em's Wedding  
 ** TODO Book Cirque de sol tickets  
-** TODO Attempt a USB recovery on the chromebook  
 * Long term goals                                                 :Long:Term:
 * Books                                                               :Books:
 ** Homo Deus: Brief Hist of Tom - Yuah Noal  

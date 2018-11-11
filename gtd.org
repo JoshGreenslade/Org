@@ -8,6 +8,7 @@
 *** Economical Simulator                                             :EcoSim:
 **** TODO Plan out V3 of Eco simulator 
 *** Fix Old Chromebook                                        :FixChromebook:
+**** TODO Purchase a SNS4151S3/32G Hard drive
 ** Home_Tasks                                                         :Tasks:
 *** TODO Pick up Dads Passport from Gma's 
 *** TODO Book Dentists appointment 
