@@ -14,6 +14,8 @@
 *** TODO Book Dentists appointment 
 *** TODO Book Leichester Trains
 *** TODO Reply to Annie from RAS 
+*** DONE Email Ashton RE payments  
+    CLOSED: [2018-11-12 Mon 13:03]
 * Work                                                          :Work:
 
 ** Work_Projects                                                   :Projects:
@@ -21,9 +23,13 @@
 **** TODO Confirm dates for first talk
 **** TODO Confirm Speaker for first talk
 **** TODO Establish whether you want to run this a series of a one-off. 
+**** TODO Once ready, reply to the events staff 
 *** 3D Planet Printing                                       :3dPlanets:
+**** TODO Convert Mercury from a DEM to a 3d Model  
+     SCHEDULED: <2018-11-12 Mon>
 **** TODO Get topographical data on as many planets + moons as you can
 ***** Mercury 
+****** TODO Convert data to a 3d model 
 ***** Venus
 ***** Earth
 ****** Moon
@@ -54,7 +60,7 @@
 ****** Triton
 ***** Pluto
 ***** Cosmic
-****** CMB
+mper****** CMB
 ****** Milky Way Magnetic Field
 ****** Stars?
        - Note taken on [2018-11-05 Mon 18:20] \\
@@ -76,10 +82,11 @@
 *** Get Paid 
     - Note taken on [2018-11-07 Wed 17:07] \\
       (Personally) feel like HR were quite condescending. Whilst appriciating my position, comments such as "It's just one of those strange quirks" were made, and the HR manager didn't seem to be too fussed about the situation. In her defense however, she did try to think of alternative solutions such as the salary advance
-**** TODO Pick up degree from Bognor Regis 
 ** Work_Tasks                                                         :Tasks:
 *** TODO Make SpaceUp Talk 
     DEADLINE: <2018-11-14 Wed>
-*** TODO Owe George 3.38 
 *** TODO Owe Joe 3.38
+*** TODO fill in Salary Advance form  
+    SCHEDULED: <2018-11-12 Mon>
 * Misc                                                                 :Misc:
+ 
