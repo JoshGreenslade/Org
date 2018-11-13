@@ -11,31 +11,39 @@
 **** TODO Purchase a SNS4151S3/32G Hard drive
 ** Home_Tasks                                                         :Tasks:
 *** TODO Pick up Dads Passport from Gma's 
-*** TODO Book Dentists appointment 
-*** TODO Book Leichester Trains
 *** TODO Reply to Annie from RAS 
-*** DONE Email Ashton RE payments  
-    CLOSED: [2018-11-12 Mon 13:03]
+*** TODO Send Belinda Address Details  
+    - Note taken on [2018-11-13 Tue 09:24] \\
+      Check with Chris and Faye about who'd be best to send the bill to
 * Work                                                          :Work:
 
 ** Work_Projects                                                   :Projects:
 *** Imperial Lates Talks                                 :ImperialLatesTalks:
-**** TODO Confirm dates for first talk
-**** TODO Confirm Speaker for first talk
-**** TODO Establish whether you want to run this a series of a one-off. 
-**** TODO Once ready, reply to the events staff 
+**** TODO Reply to the events staff with details 
+**** DONE Confirm dates for first talk
+     CLOSED: [2018-11-13 Tue 12:27]
+     - Note taken on [2018-11-13 Tue 12:27] \\
+       17th Of January
+**** DONE Confirm Speaker for first talk
+     CLOSED: [2018-11-13 Tue 10:48]
+**** DONE Establish whether you want to run this a series of a one-off. 
+     CLOSED: [2018-11-13 Tue 09:26]
+     - Note taken on [2018-11-13 Tue 09:26] \\
+       As i'm only here for three months, it's going to have to be a one off
 *** 3D Planet Printing                                       :3dPlanets:
-**** TODO Convert Mercury from a DEM to a 3d Model  
-     SCHEDULED: <2018-11-12 Mon>
 **** TODO Get topographical data on as many planets + moons as you can
-***** Mercury 
-****** TODO Convert data to a 3d model 
+***** DONE Mercury 
+      CLOSED: [2018-11-13 Tue 17:57]
 ***** Venus
+      - Note taken on [2018-11-13 Tue 17:57] \\
+        Might be more full data, but one has been obtained
 ***** Earth
 ****** Moon
-***** Mars
+***** DONE Mars
+      CLOSED: [2018-11-13 Tue 17:57]
 ***** Asteroid-Belt / Generic intresting
-****** Ceres
+****** DONE Ceres
+       CLOSED: [2018-11-13 Tue 17:57]
 ****** 67P
 ***** Jupiter?
 ****** Europa 
@@ -48,7 +56,8 @@
 ****** Iapetus
 ****** Dione
 ****** Tethys
-****** Enceladus
+****** DONE Enceladus
+       CLOSED: [2018-11-13 Tue 17:58]
 ****** Mimas
 ***** Uranus?
 ****** Titania
@@ -60,7 +69,7 @@
 ****** Triton
 ***** Pluto
 ***** Cosmic
-mper****** CMB
+****** CMB
 ****** Milky Way Magnetic Field
 ****** Stars?
        - Note taken on [2018-11-05 Mon 18:20] \\
@@ -69,6 +78,7 @@ mper****** CMB
 **** TODO Get into the hackspace....somehow 
      SCHEDULED: <2018-11-13 Tue>
 **** TODO Print a tiny bulbasaur
+**** TODO 3d Printed keyrings
 *** DONE Make Corrections to Thesis                       :ThesisCorrections:
     CLOSED: [2018-11-07 Wed 13:37]
     - Note taken on [2018-11-07 Wed 13:37] \\
@@ -78,15 +88,22 @@ mper****** CMB
 *** Teach Joe Interferometry Data Reductions                   :JoeInterfero:
     - Note taken on [2018-11-07 Wed 14:08] \\
       It's likely we'll use MIR for calibration and CASA for imaging
-**** TODO Go through basic interferometry data reduction again yourself  
+**** Go through basic interferometry data reduction again yourself  
+***** DONE Calibration
+      CLOSED: [2018-11-13 Tue 09:32]
+***** TODO Imaging
 *** Get Paid 
     - Note taken on [2018-11-07 Wed 17:07] \\
       (Personally) feel like HR were quite condescending. Whilst appriciating my position, comments such as "It's just one of those strange quirks" were made, and the HR manager didn't seem to be too fussed about the situation. In her defense however, she did try to think of alternative solutions such as the salary advance
+**** fill in Salary Advance form  
+     SCHEDULED: <2018-11-12 Mon>
+     - Note taken on [2018-11-13 Tue 17:58] \\
+       Waiting on Andrew to sign off
+     - Note taken on [2018-11-13 Tue 09:53] \\
+       Waiting on reply from Emily / Louise
 ** Work_Tasks                                                         :Tasks:
 *** TODO Make SpaceUp Talk 
-    DEADLINE: <2018-11-14 Wed>
-*** TODO Owe Joe 3.38
-*** TODO fill in Salary Advance form  
-    SCHEDULED: <2018-11-12 Mon>
+    SCHEDULED: <2018-11-13 Tue> DEADLINE: <2018-11-14 Wed>
+*** TODO Print off Heathers Induction Certificate
 * Misc                                                                 :Misc:
  
