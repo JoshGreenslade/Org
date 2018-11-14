@@ -13,3 +13,5 @@
    SCHEDULED: <2018-11-19 Mon>
 ** Communicating physics and astronomy to a visually impaired audience: Manchester January 15th 2019 
    SCHEDULED: <2019-01-19 Sat>
+** Induction at White City, 19:00 
+   SCHEDULED: <2018-11-15 Thu>

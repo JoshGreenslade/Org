@@ -12,9 +12,7 @@
 ** Home_Tasks                                                         :Tasks:
 *** TODO Pick up Dads Passport from Gma's 
 *** TODO Reply to Annie from RAS 
-*** TODO Send Belinda Address Details  
-    - Note taken on [2018-11-13 Tue 09:24] \\
-      Check with Chris and Faye about who'd be best to send the bill to
+*** TODO Add electoral register 
 * Work                                                          :Work:
 
 ** Work_Projects                                                   :Projects:
@@ -34,7 +32,8 @@
 **** TODO Get topographical data on as many planets + moons as you can
 ***** DONE Mercury 
       CLOSED: [2018-11-13 Tue 17:57]
-***** Venus
+***** DONE Venus
+      CLOSED: [2018-11-14 Wed 13:04]
       - Note taken on [2018-11-13 Tue 17:57] \\
         Might be more full data, but one has been obtained
 ***** Earth
@@ -75,10 +74,12 @@
        - Note taken on [2018-11-05 Mon 18:20] \\
          This is a cool idea! Certainly for the visually impaired!
 ****** Galaxies?
-**** TODO Get into the hackspace....somehow 
-     SCHEDULED: <2018-11-13 Tue>
-**** TODO Print a tiny bulbasaur
-**** TODO 3d Printed keyrings
+**** Additional mini-projects
+***** Print a tiny bulbasaur
+***** 3d Printed keyrings
+***** Pancake Earth  
+***** Discworld Create 
+***** Earth with borders 
 *** DONE Make Corrections to Thesis                       :ThesisCorrections:
     CLOSED: [2018-11-07 Wed 13:37]
     - Note taken on [2018-11-07 Wed 13:37] \\
@@ -95,8 +96,8 @@
 *** Get Paid 
     - Note taken on [2018-11-07 Wed 17:07] \\
       (Personally) feel like HR were quite condescending. Whilst appriciating my position, comments such as "It's just one of those strange quirks" were made, and the HR manager didn't seem to be too fussed about the situation. In her defense however, she did try to think of alternative solutions such as the salary advance
-**** fill in Salary Advance form  
-     SCHEDULED: <2018-11-12 Mon>
+**** DONE fill in Salary Advance form  
+     CLOSED: [2018-11-14 Wed 14:19] SCHEDULED: <2018-11-12 Mon>
      - Note taken on [2018-11-13 Tue 17:58] \\
        Waiting on Andrew to sign off
      - Note taken on [2018-11-13 Tue 09:53] \\
@@ -105,5 +106,6 @@
 *** TODO Make SpaceUp Talk 
     SCHEDULED: <2018-11-13 Tue> DEADLINE: <2018-11-14 Wed>
 *** TODO Print off Heathers Induction Certificate
+*** TODO Email Amielie and Jim RE postdocs 
 * Misc                                                                 :Misc:
  
