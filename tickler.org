@@ -15,3 +15,5 @@
    SCHEDULED: <2019-01-19 Sat>
 ** Induction at White City, 19:00 
    SCHEDULED: <2018-11-15 Thu>
+** Christmas Party, December 11th 17:00
+   SCHEDULED: <2018-12-11 Tue>

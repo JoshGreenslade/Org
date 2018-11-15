@@ -37,36 +37,63 @@
       - Note taken on [2018-11-13 Tue 17:57] \\
         Might be more full data, but one has been obtained
 ***** Earth
-****** Moon
+****** DONE Moon
+       CLOSED: [2018-11-15 Thu 16:42]
 ***** DONE Mars
       CLOSED: [2018-11-13 Tue 17:57]
 ***** Asteroid-Belt / Generic intresting
 ****** DONE Ceres
        CLOSED: [2018-11-13 Tue 17:57]
 ****** 67P
-***** Jupiter?
-****** Europa 
-****** Ganymede
-****** Io
-****** Callisto
-***** Saturn? 
-****** Titan
-****** Rhea
-****** Iapetus
-****** Dione
-****** Tethys
+       - Note taken on [2018-11-15 Thu 16:09] \\
+         Not done yet, but difficult to do with current set up....
+***** DONE Jupiter?
+      CLOSED: [2018-11-15 Thu 14:09]
+****** DONE Europa 
+       CLOSED: [2018-11-15 Thu 14:01]
+****** DONE Ganymede
+       CLOSED: [2018-11-15 Thu 14:02]
+****** DONE Io
+       CLOSED: [2018-11-15 Thu 14:09]
+       - Note taken on [2018-11-15 Thu 14:09] \\
+         White et al. 2014 do provide a map. But it's not exactly in an easy to use / find format. Nor is it complete. 
+         
+         Leave for now, but maybe come back to this later?
+****** DONE Callisto
+       CLOSED: [2018-11-15 Thu 14:00]
+***** DONE Saturn? 
+      CLOSED: [2018-11-15 Thu 16:42]
+****** DONE Titan
+       CLOSED: [2018-11-15 Thu 16:08]
+****** DONE Rhea
+       CLOSED: [2018-11-15 Thu 16:08]
+****** DONE Iapetus
+       CLOSED: [2018-11-15 Thu 16:08]
+****** DONE Dione
+       CLOSED: [2018-11-15 Thu 16:08]
+****** DONE Tethys
+       CLOSED: [2018-11-15 Thu 16:08]
 ****** DONE Enceladus
        CLOSED: [2018-11-13 Tue 17:58]
-****** Mimas
-***** Uranus?
-****** Titania
-****** Oberon
-****** Umbriel
-****** Ariel
-****** Miranda
-***** Neptune?
+****** DONE Mimas
+       CLOSED: [2018-11-15 Thu 16:08]
+***** DONE Uranus?
+      CLOSED: [2018-11-15 Thu 16:08]
+****** DONE Titania
+       CLOSED: [2018-11-15 Thu 16:08]
+****** DONE Oberon
+       CLOSED: [2018-11-15 Thu 16:08]
+****** DONE Umbriel
+       CLOSED: [2018-11-15 Thu 16:08]
+****** DONE Ariel
+       CLOSED: [2018-11-15 Thu 16:08]
+****** DONE Miranda
+       CLOSED: [2018-11-15 Thu 16:08]
+***** DONE Neptune?
+      CLOSED: [2018-11-15 Thu 16:09]
 ****** Triton
-***** Pluto
+***** DONE Pluto
+      CLOSED: [2018-11-15 Thu 14:00]
 ***** Cosmic
 ****** CMB
 ****** Milky Way Magnetic Field
@@ -80,6 +107,7 @@
 ***** Pancake Earth  
 ***** Discworld Create 
 ***** Earth with borders 
+***** Majoras Mask Moon 
 *** DONE Make Corrections to Thesis                       :ThesisCorrections:
     CLOSED: [2018-11-07 Wed 13:37]
     - Note taken on [2018-11-07 Wed 13:37] \\
