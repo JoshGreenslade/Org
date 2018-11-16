@@ -7,13 +7,13 @@
    SCHEDULED: <2018-12-28 Fri>
 ** Christmas Meal Nottingham  
    SCHEDULED: <2018-12-22 Sat>
-** If no updates, chase up HR RE pay, 
-   SCHEDULED: <2018-11-16 Fri>
+** DONE If no updates, chase up HR RE pay, 
+   CLOSED: [2018-11-16 Fri 15:06] SCHEDULED: <2018-11-16 Fri>
 ** Dentists Appointment Monday 19th November 16:15 
    SCHEDULED: <2018-11-19 Mon>
 ** Communicating physics and astronomy to a visually impaired audience: Manchester January 15th 2019 
    SCHEDULED: <2019-01-19 Sat>
-** Induction at White City, 19:00 
-   SCHEDULED: <2018-11-15 Thu>
+** DONE Induction at White City, 19:00 
+   CLOSED: [2018-11-16 Fri 15:06] SCHEDULED: <2018-11-15 Thu>
 ** Christmas Party, December 11th 17:00
    SCHEDULED: <2018-12-11 Tue>

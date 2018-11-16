@@ -13,11 +13,16 @@
 *** TODO Pick up Dads Passport from Gma's 
 *** TODO Reply to Annie from RAS 
 *** TODO Add electoral register 
+*** TODO Reply to Adam with Family's thoughts on decreasing house price  
+    SCHEDULED: <2018-11-19 Mon>
+*** TODO Watch https://www.youtube.com/watch?v=t9WMNuyjm4w 
 * Work                                                          :Work:
 
 ** Work_Projects                                                   :Projects:
 *** Imperial Lates Talks                                 :ImperialLatesTalks:
-**** TODO Reply to the events staff with details 
+**** TODO Ask Subu for an abstract on his talk
+**** DONE Reply to the events staff with details 
+     CLOSED: [2018-11-16 Fri 15:12]
 **** DONE Confirm dates for first talk
      CLOSED: [2018-11-13 Tue 12:27]
      - Note taken on [2018-11-13 Tue 12:27] \\
@@ -108,10 +113,6 @@
 ***** Discworld Create 
 ***** Earth with borders 
 ***** Majoras Mask Moon 
-*** DONE Make Corrections to Thesis                       :ThesisCorrections:
-    CLOSED: [2018-11-07 Wed 13:37]
-    - Note taken on [2018-11-07 Wed 13:37] \\
-      Awaiting confirmation from Steve that the corrections are acceptable.
 *** Write NGP6 Dropout Paper                                           :NGP6:
 **** TODO Re-read NGP6_paper, noting down changes + corrections 
 *** Teach Joe Interferometry Data Reductions                   :JoeInterfero:
@@ -121,19 +122,9 @@
 ***** DONE Calibration
       CLOSED: [2018-11-13 Tue 09:32]
 ***** TODO Imaging
-*** Get Paid 
-    - Note taken on [2018-11-07 Wed 17:07] \\
-      (Personally) feel like HR were quite condescending. Whilst appriciating my position, comments such as "It's just one of those strange quirks" were made, and the HR manager didn't seem to be too fussed about the situation. In her defense however, she did try to think of alternative solutions such as the salary advance
-**** DONE fill in Salary Advance form  
-     CLOSED: [2018-11-14 Wed 14:19] SCHEDULED: <2018-11-12 Mon>
-     - Note taken on [2018-11-13 Tue 17:58] \\
-       Waiting on Andrew to sign off
-     - Note taken on [2018-11-13 Tue 09:53] \\
-       Waiting on reply from Emily / Louise
 ** Work_Tasks                                                         :Tasks:
-*** TODO Make SpaceUp Talk 
-    SCHEDULED: <2018-11-13 Tue> DEADLINE: <2018-11-14 Wed>
 *** TODO Print off Heathers Induction Certificate
 *** TODO Email Amielie and Jim RE postdocs 
+*** TODO Get small gifts/cards of thanks for pay 
 * Misc                                                                 :Misc:
  
