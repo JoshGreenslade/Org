@@ -1,6 +1,6 @@
 * Tickler
-** Black Holes, LSE, 21st November, 18:30 
-   SCHEDULED: <2018-11-21 Wed>
+** DONE Black Holes, LSE, 21st November, 18:30 
+   CLOSED: [2018-11-22 Thu 12:51] SCHEDULED: <2018-11-21 Wed>
 ** DND 22nd November  
    SCHEDULED: <2018-11-22 Thu>
 ** Christmas Meal in Bognor  
@@ -9,8 +9,8 @@
    SCHEDULED: <2018-12-22 Sat>
 ** DONE If no updates, chase up HR RE pay, 
    CLOSED: [2018-11-16 Fri 15:06] SCHEDULED: <2018-11-16 Fri>
-** Dentists Appointment Monday 19th November 16:15 
-   SCHEDULED: <2018-11-19 Mon>
+** DONE Dentists Appointment Monday 19th November 16:15 
+   CLOSED: [2018-11-20 Tue 15:51] SCHEDULED: <2018-11-19 Mon>
 ** Communicating physics and astronomy to a visually impaired audience: Manchester January 15th 2019 
    SCHEDULED: <2019-01-19 Sat>
 ** DONE Induction at White City, 19:00 

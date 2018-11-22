@@ -12,9 +12,6 @@
 ** Home_Tasks                                                         :Tasks:
 *** TODO Pick up Dads Passport from Gma's 
 *** TODO Reply to Annie from RAS 
-*** TODO Reply to Adam with Family's thoughts on decreasing house price  
-    SCHEDULED: <2018-11-19 Mon>
-*** TODO Pay alex for Chris
 * Work                                                          :Work:
 
 ** Work_Projects                                                   :Projects:
@@ -106,13 +103,16 @@
          This is a cool idea! Certainly for the visually impaired!
 ****** Galaxies?
 **** Additional mini-projects
-***** Print a tiny bulbasaur
+***** DONE Print a tiny bulbasaur
+      CLOSED: [2018-11-20 Tue 17:53]
 ***** 3d Printed keyrings
 ***** Pancake Earth  
 ***** Discworld Create 
 ***** Earth with borders 
 ***** Majoras Mask Moon 
 ***** Snooker with planets?
+***** Black hole Earth of Earth 
+***** Metal Embossed Earth
 **** TODO maw38.aber.ac.uk, email with models. check pictures too for others 
 **** TODO Email imperial about sending extra goodies alongside the planets
 **** TODO Do some branding for 3d printing  
@@ -125,13 +125,11 @@
 ***** DONE Calibration
       CLOSED: [2018-11-13 Tue 09:32]
 ***** TODO Imaging
-**** TODO Look at new SMA data with Joe  
 ** Work_Tasks                                                         :Tasks:
 *** TODO Print off Heathers Induction Certificate
 *** TODO Email Amielie and Jim RE postdocs 
 *** TODO Get small gifts/cards of thanks for pay 
 *** TODO Check planet for jobs, possibly email directly with updated CV?
-*** TODO Letter to Mayor of leicester thanking Ryans
-*** TODO Go through twitter things and replies 
+*** TODO Expenses forms 
 * Misc                                                                 :Misc:
  
