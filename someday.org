@@ -3,16 +3,11 @@
 ** TODO Book Chris and Rutas Wedding Flights+accomidation 
 ** TODO Book accomidation and flights for Tim+Em's Wedding  
 ** TODO Book Cirque de sol tickets  
-** TODO Reply to Adam with Family's thoughts on decreasing house price  
-   SCHEDULED: <2018-11-19 Mon>
-   - Note taken on [2018-11-20 Tue 15:49] \\
-     Put Adam in touch with chris to converse. Will have to see his thoughts later
 ** TODO Look at new SMA data with Joe  
    - Note taken on [2018-11-20 Tue 15:50] \\
      Joe is going to reduce this is a task and the come back to me
 * Long term goals                                                 :Long:Term:
-** TODO Owe Claude $29.89 
-** TODO Pay alex for Chris
 * Books                                                               :Books:
 ** Homo Deus: Brief Hist of Tom - Yuah Noal  
 ** The Skripal files - Mark Urban 
+** Guns Germs and Steel

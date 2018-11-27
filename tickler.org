@@ -17,3 +17,5 @@
    CLOSED: [2018-11-16 Fri 15:06] SCHEDULED: <2018-11-15 Thu>
 ** Christmas Party, December 11th 17:00
    SCHEDULED: <2018-12-11 Tue>
+** DND, somewhere?  
+   SCHEDULED: <2018-11-28 Wed>

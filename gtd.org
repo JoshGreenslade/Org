@@ -12,23 +12,29 @@
 ** Home_Tasks                                                         :Tasks:
 *** TODO Pick up Dads Passport from Gma's 
 *** TODO Reply to Annie from RAS 
+*** TODO Ring Gma 2
+*** TODO Ring Gma 1
+*** TODO Ring Mum
 * Work                                                          :Work:
 
 ** Work_Projects                                                   :Projects:
 *** Imperial Lates Talks                                 :ImperialLatesTalks:
 **** TODO Ask Subu for an abstract on his talk
-**** DONE Reply to the events staff with details 
-     CLOSED: [2018-11-16 Fri 15:12]
-**** DONE Confirm dates for first talk
-     CLOSED: [2018-11-13 Tue 12:27]
-     - Note taken on [2018-11-13 Tue 12:27] \\
-       17th Of January
-**** DONE Confirm Speaker for first talk
-     CLOSED: [2018-11-13 Tue 10:48]
-**** DONE Establish whether you want to run this a series of a one-off. 
-     CLOSED: [2018-11-13 Tue 09:26]
-     - Note taken on [2018-11-13 Tue 09:26] \\
-       As i'm only here for three months, it's going to have to be a one off
+**** Done 
+***** DONE Confirm roam booking, Clore lecture theatre
+      CLOSED: [2018-11-27 Tue 15:59]
+***** DONE Establish whether you want to run this a series of a one-off. 
+      CLOSED: [2018-11-13 Tue 09:26]
+      - Note taken on [2018-11-13 Tue 09:26] \\
+        As i'm only here for three months, it's going to have to be a one off
+***** DONE Confirm Speaker for first talk
+      CLOSED: [2018-11-13 Tue 10:48]
+***** DONE Confirm dates for first talk
+      CLOSED: [2018-11-13 Tue 12:27]
+      - Note taken on [2018-11-13 Tue 12:27] \\
+        17th Of January
+***** DONE Reply to the events staff with details 
+      CLOSED: [2018-11-16 Fri 15:12]
 *** 3D Planet Printing                                       :3dPlanets:
 **** TODO Get topographical data on as many planets + moons as you can
 ***** DONE Mercury 
@@ -37,7 +43,8 @@
       CLOSED: [2018-11-14 Wed 13:04]
       - Note taken on [2018-11-13 Tue 17:57] \\
         Might be more full data, but one has been obtained
-***** Earth
+***** DONE Earth
+      CLOSED: [2018-11-27 Tue 18:06]
 ****** DONE Moon
        CLOSED: [2018-11-15 Thu 16:42]
 ***** DONE Mars
@@ -117,7 +124,16 @@
 **** TODO Email imperial about sending extra goodies alongside the planets
 **** TODO Do some branding for 3d printing  
 *** Write NGP6 Dropout Paper                                           :NGP6:
-**** TODO Re-read NGP6_paper, noting down changes + corrections 
+**** Re-read NGP6_paper, noting down changes + corrections 
+***** TODO Re-write Data section of paper
+      SCHEDULED: <2018-11-27 Tue>
+***** Done
+****** DONE ReWrite Intro to paper
+       CLOSED: [2018-11-27 Tue 15:58]
+****** DONE Read Intro to paper
+       CLOSED: [2018-11-27 Tue 15:58]
+****** DONE Read intro in thesis
+       CLOSED: [2018-11-27 Tue 14:21]
 *** Teach Joe Interferometry Data Reductions                   :JoeInterfero:
     - Note taken on [2018-11-07 Wed 14:08] \\
       It's likely we'll use MIR for calibration and CASA for imaging
