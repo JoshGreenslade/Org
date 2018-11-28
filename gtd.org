@@ -36,7 +36,8 @@
 ***** DONE Reply to the events staff with details 
       CLOSED: [2018-11-16 Fri 15:12]
 *** 3D Planet Printing                                       :3dPlanets:
-**** TODO Get topographical data on as many planets + moons as you can
+**** DONE Get topographical data on as many planets + moons as you can
+     CLOSED: [2018-11-28 Wed 23:06]
 ***** DONE Mercury 
       CLOSED: [2018-11-13 Tue 17:57]
 ***** DONE Venus
@@ -103,7 +104,8 @@
 ***** DONE Pluto
       CLOSED: [2018-11-15 Thu 14:00]
 ***** Cosmic
-****** CMB
+****** DONE CMB
+       CLOSED: [2018-11-28 Wed 23:06]
 ****** Milky Way Magnetic Field
 ****** Stars?
        - Note taken on [2018-11-05 Mon 18:20] \\
@@ -143,7 +145,6 @@
 ***** TODO Imaging
 ** Work_Tasks                                                         :Tasks:
 *** TODO Print off Heathers Induction Certificate
-*** TODO Email Amielie and Jim RE postdocs 
 *** TODO Get small gifts/cards of thanks for pay 
 *** TODO Check planet for jobs, possibly email directly with updated CV?
 *** TODO Expenses forms 
