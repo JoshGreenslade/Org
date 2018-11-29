@@ -1,2 +1,4 @@
 * Tasks                                                               :Inbox:
 ** TODO Reply to Aide 
+** TODO Finalise models 
+** TODO Squirtle for Ciaran 
