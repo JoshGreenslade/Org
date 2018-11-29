@@ -14,7 +14,6 @@
 *** TODO Reply to Annie from RAS 
 *** TODO Ring Gma 2
 *** TODO Ring Gma 1
-*** TODO Ring Mum
 * Work                                                          :Work:
 
 ** Work_Projects                                                   :Projects:
