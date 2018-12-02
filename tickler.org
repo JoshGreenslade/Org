@@ -11,3 +11,6 @@
    CLOSED: [2018-11-28 Wed 23:05] SCHEDULED: <2018-11-28 Wed>
 ** DONE Physio, 15:30 
    CLOSED: [2018-11-28 Wed 23:05] SCHEDULED: <2018-11-28 Wed>
+** Baker Street Irregulars, Wed 12 December, 18:30  
+   SCHEDULED: <2018-12-12 Wed>
+  [2018-11-30 Fri 20:32]

@@ -14,6 +14,7 @@
 *** TODO Reply to Annie from RAS 
 *** TODO Ring Gma 2
 *** TODO Ring Gma 1
+*** TODO Write letter to Andy 
 * Work                                                          :Work:
 
 ** Work_Projects                                                   :Projects:
@@ -34,6 +35,7 @@
         17th Of January
 ***** DONE Reply to the events staff with details 
       CLOSED: [2018-11-16 Fri 15:12]
+**** TODO Reply to Aide 
 *** 3D Planet Printing                                       :3dPlanets:
 **** DONE Get topographical data on as many planets + moons as you can
      CLOSED: [2018-11-28 Wed 23:06]
@@ -124,10 +126,11 @@
 **** TODO maw38.aber.ac.uk, email with models. check pictures too for others 
 **** TODO Email imperial about sending extra goodies alongside the planets
 **** TODO Do some branding for 3d printing  
+**** TODO Finalise models 
 *** Write NGP6 Dropout Paper                                           :NGP6:
 **** Re-read NGP6_paper, noting down changes + corrections 
 ***** TODO Re-write Data section of paper
-      SCHEDULED: <2018-11-27 Tue>
+      SCHEDULED: <2018-11-30 Fri>
 ***** Done
 ****** DONE ReWrite Intro to paper
        CLOSED: [2018-11-27 Tue 15:58]
@@ -142,10 +145,23 @@
 ***** DONE Calibration
       CLOSED: [2018-11-13 Tue 09:32]
 ***** TODO Imaging
+*** Apply for Job with Amelie 
+**** TODO Write CV
+**** TODO Write Cover Letter
+**** TODO Write Research Plan
+**** TODO Ask Amelie if there's anything else she needs
+
+
+
+
+
+
 ** Work_Tasks                                                         :Tasks:
 *** TODO Print off Heathers Induction Certificate
 *** TODO Get small gifts/cards of thanks for pay 
 *** TODO Check planet for jobs, possibly email directly with updated CV?
 *** TODO Expenses forms 
+*** TODO Squirtle for Ciaran 
+
 * Misc                                                                 :Misc:
  
