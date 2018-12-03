@@ -14,12 +14,10 @@
 *** TODO Reply to Annie from RAS 
 *** TODO Ring Gma 2
 *** TODO Ring Gma 1
-*** TODO Write letter to Andy 
 * Work                                                          :Work:
 
 ** Work_Projects                                                   :Projects:
 *** Imperial Lates Talks                                 :ImperialLatesTalks:
-**** TODO Ask Subu for an abstract on his talk
 **** Done 
 ***** DONE Confirm roam booking, Clore lecture theatre
       CLOSED: [2018-11-27 Tue 15:59]
@@ -35,7 +33,7 @@
         17th Of January
 ***** DONE Reply to the events staff with details 
       CLOSED: [2018-11-16 Fri 15:12]
-**** TODO Reply to Aide 
+**** TODO Email events team about advertising 
 *** 3D Planet Printing                                       :3dPlanets:
 **** DONE Get topographical data on as many planets + moons as you can
      CLOSED: [2018-11-28 Wed 23:06]
@@ -129,8 +127,7 @@
 **** TODO Finalise models 
 *** Write NGP6 Dropout Paper                                           :NGP6:
 **** Re-read NGP6_paper, noting down changes + corrections 
-***** TODO Re-write Data section of paper
-      SCHEDULED: <2018-11-30 Fri>
+***** TODO Re-write Results section of Paper 
 ***** Done
 ****** DONE ReWrite Intro to paper
        CLOSED: [2018-11-27 Tue 15:58]
@@ -138,6 +135,8 @@
        CLOSED: [2018-11-27 Tue 15:58]
 ****** DONE Read intro in thesis
        CLOSED: [2018-11-27 Tue 14:21]
+****** DONE Re-write Data section of paper
+       CLOSED: [2018-12-03 Mon 15:46] SCHEDULED: <2018-11-30 Fri>
 *** Teach Joe Interferometry Data Reductions                   :JoeInterfero:
     - Note taken on [2018-11-07 Wed 14:08] \\
       It's likely we'll use MIR for calibration and CASA for imaging
@@ -160,7 +159,6 @@
 *** TODO Print off Heathers Induction Certificate
 *** TODO Get small gifts/cards of thanks for pay 
 *** TODO Check planet for jobs, possibly email directly with updated CV?
-*** TODO Expenses forms 
 *** TODO Squirtle for Ciaran 
 
 * Misc                                                                 :Misc:
