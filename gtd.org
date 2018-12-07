@@ -123,7 +123,8 @@
 **** TODO Do some branding for 3d printing  
 **** DONE Finalise models 
      CLOSED: [2018-12-06 Thu 15:36] SCHEDULED: <2018-12-06 Thu>
-*** Write NGP6 Dropout Paper                                           :NGP6:
+*** DONE Write NGP6 Dropout Paper                                      :NGP6:
+    CLOSED: [2018-12-07 Fri 14:28]
 **** Re-read NGP6_paper, noting down changes + corrections 
 ***** Done
 ****** DONE ReWrite Intro to paper
@@ -134,15 +135,16 @@
        CLOSED: [2018-11-27 Tue 14:21]
 ****** DONE Re-write Data section of paper
        CLOSED: [2018-12-03 Mon 15:46] SCHEDULED: <2018-11-30 Fri>
-***** TODO Read through the revised paper and note down any corrections 
+***** DONE Read through the revised paper and note down any corrections 
+      CLOSED: [2018-12-07 Fri 14:28]
 *** Teach Joe Interferometry Data Reductions                   :JoeInterfero:
     - Note taken on [2018-11-07 Wed 14:08] \\
       It's likely we'll use MIR for calibration and CASA for imaging
 **** Go through basic interferometry data reduction again yourself  
 ***** DONE Calibration
       CLOSED: [2018-11-13 Tue 09:32]
-***** TODO Imaging
-      SCHEDULED: <2018-12-06 Thu>
+***** DONE Imaging
+      CLOSED: [2018-12-07 Fri 15:55] SCHEDULED: <2018-12-06 Thu>
       - Note taken on [2018-12-06 Thu 14:12] \\
         CASA looks like a ballache. Lets do miriad
 *** Apply for Job with Amelie 

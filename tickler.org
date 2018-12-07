@@ -16,7 +16,9 @@
   [2018-11-30 Fri 20:32]
 ** DONE DND 17:00ish? 
    CLOSED: [2018-12-06 Thu 13:55] SCHEDULED: <2018-12-05 Wed>
-** See Graham RE 3d printer 11:00  
-   SCHEDULED: <2018-12-07 Fri>
+** DONE See Graham RE 3d printer 11:00  
+   CLOSED: [2018-12-07 Fri 15:55] SCHEDULED: <2018-12-07 Fri>
 ** Heather Party 
    SCHEDULED: <2018-12-20 Thu>
+** Meeting with Ingrid, 11:00 
+   SCHEDULED: <2018-12-10 Mon>
