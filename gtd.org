@@ -6,6 +6,10 @@
 ***** TODO Obtain a desk plant 
 *** Economical Simulator                                             :EcoSim:
 **** TODO Plan out V3 of Eco simulator 
+*** Job applications                                                    :Job:
+**** TODO Planet
+**** TODO Terrabotics general job applicaiton  
+**** TODO OpenCosmos  
 *** Fix Old Chromebook                                        :FixChromebook:
 **** TODO Purchase a SNS4151S3/32G Hard drive
 ** Home_Tasks                                                         :Tasks:
@@ -158,5 +162,6 @@
 *** TODO Print off Heathers Induction Certificate
 *** TODO Check planet for jobs, possibly email directly with updated CV?
 *** TODO Squirtle for Ciaran 
+*** TODO Roberto public speaker 
 * Misc                                                                 :Misc:
  
