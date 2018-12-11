@@ -2,7 +2,8 @@
 ** Home_Projects                                                  :Projects:
 *** Improve home Living                                          :HomeImprov:
 **** Go To Ikea                                                        :Ikea:
-***** TODO Obtain floor based seating  
+***** DONE Obtain floor based seating  
+      CLOSED: [2018-12-11 Tue 14:30]
 ***** TODO Obtain a desk plant 
 *** Economical Simulator                                             :EcoSim:
 **** TODO Plan out V3 of Eco simulator 
@@ -155,7 +156,6 @@
 ***** DONE Write CV
       CLOSED: [2018-12-06 Thu 14:09] SCHEDULED: <2018-12-06 Thu>
 ** Work_Tasks                                                         :Tasks:
-*** TODO Print off Heathers Induction Certificate
 *** TODO Check planet for jobs, possibly email directly with updated CV?
 *** TODO Squirtle for Ciaran 
 * Misc                                                                 :Misc:
