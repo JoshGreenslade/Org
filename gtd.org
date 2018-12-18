@@ -149,9 +149,6 @@
       - Note taken on [2018-12-06 Thu 14:12] \\
         CASA looks like a ballache. Lets do miriad
 *** Apply for Job with Amelie 
-**** TODO Write Cover Letter
-**** TODO Write Research Plan
-**** TODO Ask Amelie if there's anything else she needs
 **** done
 ***** DONE Write CV
       CLOSED: [2018-12-06 Thu 14:09] SCHEDULED: <2018-12-06 Thu>
