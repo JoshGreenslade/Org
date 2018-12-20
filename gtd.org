@@ -4,13 +4,11 @@
 **** Go To Ikea                                                        :Ikea:
 ***** DONE Obtain floor based seating  
       CLOSED: [2018-12-11 Tue 14:30]
-***** TODO Obtain a desk plant 
 *** Economical Simulator                                             :EcoSim:
 **** TODO Plan out V3 of Eco simulator 
 *** Fix Old Chromebook                                        :FixChromebook:
 **** TODO Purchase a SNS4151S3/32G Hard drive
 ** Home_Tasks                                                         :Tasks:
-*** TODO Pick up Dads Passport from Gma's 
 *** TODO Reply to Annie from RAS 
 *** TODO Ring Gma 2
 * Work                                                          :Work:
