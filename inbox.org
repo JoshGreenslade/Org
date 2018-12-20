@@ -1,4 +1,15 @@
 * Tasks                                                               :Inbox:
+<<<<<<< HEAD
 ** TODO Update LinkedIn Profile  
 ** TODO CV for normal jobs  
 ** TODO Get Laptop Repaired 
+=======
+** TODO Health and safety things 
+** TODO Jims Job 
+** TODO JWST presentation 25th Jan  
+   SCHEDULED: <2019-01-25 Fri>
+** TODO Fox and Sons Passport 
+** TODO Dave Expenses form 
+** TODO Ask events team when you're back 
+>>>>>>> 922f7c9eaa8dce1ced81d1c3cfb4592148b7195b
+** TODO Organise Weekend to visit Faye  

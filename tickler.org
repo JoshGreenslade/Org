@@ -5,14 +5,14 @@
    SCHEDULED: <2018-12-22 Sat>
 ** Communicating physics and astronomy to a visually impaired audience: Manchester January 15th 2019 
    SCHEDULED: <2019-01-19 Sat>
-** Christmas Party, December 11th 17:00
-   SCHEDULED: <2018-12-11 Tue>
+** DONE Christmas Party, December 11th 17:00
+   CLOSED: [2018-12-19 Wed 11:15] SCHEDULED: <2018-12-11 Tue>
 ** DONE DND, somewhere?  
    CLOSED: [2018-11-28 Wed 23:05] SCHEDULED: <2018-11-28 Wed>
 ** DONE Physio, 15:30 
    CLOSED: [2018-11-28 Wed 23:05] SCHEDULED: <2018-11-28 Wed>
-** Baker Street Irregulars, Wed 12 December, 18:30  
-   SCHEDULED: <2018-12-12 Wed>
+** DONE Baker Street Irregulars, Wed 12 December, 18:30  
+   CLOSED: [2018-12-19 Wed 11:15] SCHEDULED: <2018-12-12 Wed>
   [2018-11-30 Fri 20:32]
 ** DONE DND 17:00ish? 
    CLOSED: [2018-12-06 Thu 13:55] SCHEDULED: <2018-12-05 Wed>
@@ -20,5 +20,5 @@
    CLOSED: [2018-12-07 Fri 15:55] SCHEDULED: <2018-12-07 Fri>
 ** Heather Party 
    SCHEDULED: <2018-12-20 Thu>
-** Meeting with Ingrid, 11:00 
-   SCHEDULED: <2018-12-10 Mon>
+** DONE Meeting with Ingrid, 11:00 
+   CLOSED: [2018-12-19 Wed 11:15] SCHEDULED: <2018-12-10 Mon>

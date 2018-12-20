@@ -2,8 +2,8 @@
 ** Home_Projects                                                  :Projects:
 *** Improve home Living                                          :HomeImprov:
 **** Go To Ikea                                                        :Ikea:
-***** TODO Obtain floor based seating  
-***** TODO Obtain a desk plant 
+***** DONE Obtain floor based seating  
+      CLOSED: [2018-12-11 Tue 14:30]
 *** Economical Simulator                                             :EcoSim:
 **** TODO Plan out V3 of Eco simulator 
 *** Job applications                                                    :Job:
@@ -13,7 +13,6 @@
 *** Fix Old Chromebook                                        :FixChromebook:
 **** TODO Purchase a SNS4151S3/32G Hard drive
 ** Home_Tasks                                                         :Tasks:
-*** TODO Pick up Dads Passport from Gma's 
 *** TODO Reply to Annie from RAS 
 *** TODO Ring Gma 2
 * Work                                                          :Work:
@@ -152,14 +151,10 @@
       - Note taken on [2018-12-06 Thu 14:12] \\
         CASA looks like a ballache. Lets do miriad
 *** Apply for Job with Amelie 
-**** TODO Write Cover Letter
-**** TODO Write Research Plan
-**** TODO Ask Amelie if there's anything else she needs
 **** done
 ***** DONE Write CV
       CLOSED: [2018-12-06 Thu 14:09] SCHEDULED: <2018-12-06 Thu>
 ** Work_Tasks                                                         :Tasks:
-*** TODO Print off Heathers Induction Certificate
 *** TODO Check planet for jobs, possibly email directly with updated CV?
 *** TODO Squirtle for Ciaran 
 *** TODO Roberto public speaker 
