@@ -2,10 +2,12 @@
 <<<<<<< HEAD
 ** TODO Update LinkedIn Profile  
 ** TODO CV for normal jobs  
-** TODO Get Laptop Repaired 
+** DONE Get Laptop Repaired 
+   CLOSED: [2018-12-22 Sat 01:32]
 =======
 ** TODO Health and safety things 
 ** TODO Jims Job 
+   SCHEDULED: <2018-12-22 Sat>
 ** TODO JWST presentation 25th Jan  
    SCHEDULED: <2019-01-25 Fri>
 ** TODO Fox and Sons Passport 
@@ -13,4 +15,3 @@
 ** TODO Ask events team when you're back 
 >>>>>>> 922f7c9eaa8dce1ced81d1c3cfb4592148b7195b
 ** TODO Organise Weekend to visit Faye  
-** TODO Improveyoursocialskills 

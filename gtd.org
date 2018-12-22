@@ -1,17 +1,18 @@
 * Home                                                          :Home:
 ** Home_Projects                                                  :Projects:
-*** Improve home Living                                          :HomeImprov:
-**** Go To Ikea                                                        :Ikea:
-***** DONE Obtain floor based seating  
-      CLOSED: [2018-12-11 Tue 14:30]
 *** Economical Simulator                                             :EcoSim:
-**** TODO Plan out V3 of Eco simulator 
+**** TODO Get Agents Working Correctly 
+     SCHEDULED: <2018-12-22 Sat>
+**** TODO Flesh plan our further 
 *** Job applications                                                    :Job:
 **** TODO Planet
 **** TODO Terrabotics general job applicaiton  
-**** TODO OpenCosmos  
+**** TODO OpenCosmos   
 *** Fix Old Chromebook                                        :FixChromebook:
 **** TODO Purchase a SNS4151S3/32G Hard drive
+*** Improveyoursocialskills 
+**** TODO Read through the Foundations Chapter
+     SCHEDULED: <2018-12-22 Sat>
 ** Home_Tasks                                                         :Tasks:
 *** TODO Reply to Annie from RAS 
 *** TODO Ring Gma 2
