@@ -1,117 +1,44 @@
 * Home                                                          :Home:
 ** Home_Projects                                                  :Projects:
 *** Economical Simulator                                             :EcoSim:
-**** TODO Get Agents Working Correctly 
-     SCHEDULED: <2018-12-22 Sat>
-**** TODO Flesh plan our further 
+**** TODO Build Marketplace again. Try to vectorise 
 *** Job applications                                                    :Job:
 **** TODO Planet
 **** TODO Terrabotics general job applicaiton  
 **** TODO OpenCosmos   
+**** DONE Jims Job 
+     CLOSED: [2018-12-29 Sat 18:57] SCHEDULED: <2018-12-22 Sat>
+**** TODO ArchAngel 
 *** Fix Old Chromebook                                        :FixChromebook:
 **** TODO Purchase a SNS4151S3/32G Hard drive
 *** Improveyoursocialskills 
-**** TODO Read through the Foundations Chapter
-     SCHEDULED: <2018-12-22 Sat>
+**** TODO Revise Conversation chapter
+     SCHEDULED: <2019-01-01 Tue>
+**** TODO Read Empathy Chapter 
+     SCHEDULED: <2019-01-01 Tue>
+*** TODO Organise Weekend to visit Faye  
+*** Book Cirque de sol tickets  
+***** TODO Ask Heather if she's certain about going 
+*** PyTorch
+**** TODO Compelte intermediate tutorials at https://github.com/yunjey/pytorch-tutorial and https://www.kaggle.com/krishanudb/basic-computation-graph-using-pytorch 
+     SCHEDULED: <2019-01-01 Tue>
 ** Home_Tasks                                                         :Tasks:
-*** TODO Reply to Annie from RAS 
-*** TODO Ring Gma 2
+*** TODO Fox and Sons Passport 
+*** DONE CV for normal jobs  
+    CLOSED: [2018-12-29 Sat 14:06] SCHEDULED: <2018-12-28 Fri>
+    - Note taken on [2018-12-28 Fri 17:34] \\
+      Had a first pass, and it's pretty good. But would like to take another look tomorrow
+*** TODO Book Chris and Rutas Wedding Flights+accomidation 
+    - Note taken on [2018-12-28 Fri 12:43] \\
+      Has to take priority over Tims Wedding
+*** TODO Book accomidation and flights for Tim+Em's Wedding  
+*** TODO Organise your montery stuff into a big pile/box  
+*** TODO Sign TR1 transfer form for Monterey Gardens  
 * Work                                                          :Work:
 ** Work_Projects                                                   :Projects:
 *** Imperial Lates Talks                                 :ImperialLatesTalks:
-**** Done 
-***** DONE Confirm roam booking, Clore lecture theatre
-      CLOSED: [2018-11-27 Tue 15:59]
-***** DONE Establish whether you want to run this a series of a one-off. 
-      CLOSED: [2018-11-13 Tue 09:26]
-      - Note taken on [2018-11-13 Tue 09:26] \\
-        As i'm only here for three months, it's going to have to be a one off
-***** DONE Confirm Speaker for first talk
-      CLOSED: [2018-11-13 Tue 10:48]
-***** DONE Confirm dates for first talk
-      CLOSED: [2018-11-13 Tue 12:27]
-      - Note taken on [2018-11-13 Tue 12:27] \\
-        17th Of January
-***** DONE Reply to the events staff with details 
-      CLOSED: [2018-11-16 Fri 15:12]
-**** TODO Email events team about advertising 
 *** 3D Planet Printing                                       :3dPlanets:
-**** DONE Get topographical data on as many planets + moons as you can
-     CLOSED: [2018-11-28 Wed 23:06]
-***** DONE Mercury 
-      CLOSED: [2018-11-13 Tue 17:57]
-***** DONE Venus
-      CLOSED: [2018-11-14 Wed 13:04]
-      - Note taken on [2018-11-13 Tue 17:57] \\
-        Might be more full data, but one has been obtained
-***** DONE Earth
-      CLOSED: [2018-11-27 Tue 18:06]
-****** DONE Moon
-       CLOSED: [2018-11-15 Thu 16:42]
-***** DONE Mars
-      CLOSED: [2018-11-13 Tue 17:57]
-***** Asteroid-Belt / Generic intresting
-****** DONE Ceres
-       CLOSED: [2018-11-13 Tue 17:57]
-****** 67P
-       - Note taken on [2018-11-15 Thu 16:09] \\
-         Not done yet, but difficult to do with current set up....
-***** DONE Jupiter?
-      CLOSED: [2018-11-15 Thu 14:09]
-****** DONE Europa 
-       CLOSED: [2018-11-15 Thu 14:01]
-****** DONE Ganymede
-       CLOSED: [2018-11-15 Thu 14:02]
-****** DONE Io
-       CLOSED: [2018-11-15 Thu 14:09]
-       - Note taken on [2018-11-15 Thu 14:09] \\
-         White et al. 2014 do provide a map. But it's not exactly in an easy to use / find format. Nor is it complete. 
-         
-         Leave for now, but maybe come back to this later?
-****** DONE Callisto
-       CLOSED: [2018-11-15 Thu 14:00]
-***** DONE Saturn? 
-      CLOSED: [2018-11-15 Thu 16:42]
-****** DONE Titan
-       CLOSED: [2018-11-15 Thu 16:08]
-****** DONE Rhea
-       CLOSED: [2018-11-15 Thu 16:08]
-****** DONE Iapetus
-       CLOSED: [2018-11-15 Thu 16:08]
-****** DONE Dione
-       CLOSED: [2018-11-15 Thu 16:08]
-****** DONE Tethys
-       CLOSED: [2018-11-15 Thu 16:08]
-****** DONE Enceladus
-       CLOSED: [2018-11-13 Tue 17:58]
-****** DONE Mimas
-       CLOSED: [2018-11-15 Thu 16:08]
-***** DONE Uranus?
-      CLOSED: [2018-11-15 Thu 16:08]
-****** DONE Titania
-       CLOSED: [2018-11-15 Thu 16:08]
-****** DONE Oberon
-       CLOSED: [2018-11-15 Thu 16:08]
-****** DONE Umbriel
-       CLOSED: [2018-11-15 Thu 16:08]
-****** DONE Ariel
-       CLOSED: [2018-11-15 Thu 16:08]
-****** DONE Miranda
-       CLOSED: [2018-11-15 Thu 16:08]
-***** DONE Neptune?
-      CLOSED: [2018-11-15 Thu 16:09]
-****** Triton
-***** DONE Pluto
-      CLOSED: [2018-11-15 Thu 14:00]
-***** Cosmic
-****** DONE CMB
-       CLOSED: [2018-11-28 Wed 23:06]
-****** Milky Way Magnetic Field
-****** Stars?
-       - Note taken on [2018-11-05 Mon 18:20] \\
-         This is a cool idea! Certainly for the visually impaired!
-****** Galaxies?
-**** Additional mini-projects
+**** TODO Additional mini-projects
 ***** DONE Print a tiny bulbasaur
       CLOSED: [2018-11-20 Tue 17:53]
 ***** 3d Printed keyrings
@@ -120,44 +47,24 @@
 ***** Earth with borders 
 ***** Majoras Mask Moon 
 ***** Snooker with planets?
-***** Black hole Earth of Earth 
+***** DONE Black hole Earth of Earth 
+      CLOSED: [2018-12-28 Fri 12:49]
 ***** Metal Embossed Earth
 **** TODO maw38.aber.ac.uk, email with models. check pictures too for others 
 **** TODO Email imperial about sending extra goodies alongside the planets
 **** TODO Do some branding for 3d printing  
-**** DONE Finalise models 
-     CLOSED: [2018-12-06 Thu 15:36] SCHEDULED: <2018-12-06 Thu>
-*** DONE Write NGP6 Dropout Paper                                      :NGP6:
-    CLOSED: [2018-12-07 Fri 14:28]
-**** Re-read NGP6_paper, noting down changes + corrections 
+*** Write NGP6 Dropout Paper                                           :NGP6:
+**** TODO Make minor reccomended changes 
 ***** Done
-****** DONE ReWrite Intro to paper
-       CLOSED: [2018-11-27 Tue 15:58]
-****** DONE Read Intro to paper
-       CLOSED: [2018-11-27 Tue 15:58]
-****** DONE Read intro in thesis
-       CLOSED: [2018-11-27 Tue 14:21]
-****** DONE Re-write Data section of paper
-       CLOSED: [2018-12-03 Mon 15:46] SCHEDULED: <2018-11-30 Fri>
-***** DONE Read through the revised paper and note down any corrections 
-      CLOSED: [2018-12-07 Fri 14:28]
-*** Teach Joe Interferometry Data Reductions                   :JoeInterfero:
-    - Note taken on [2018-11-07 Wed 14:08] \\
-      It's likely we'll use MIR for calibration and CASA for imaging
-**** Go through basic interferometry data reduction again yourself  
-***** DONE Calibration
-      CLOSED: [2018-11-13 Tue 09:32]
-***** DONE Imaging
-      CLOSED: [2018-12-07 Fri 15:55] SCHEDULED: <2018-12-06 Thu>
-      - Note taken on [2018-12-06 Thu 14:12] \\
-        CASA looks like a ballache. Lets do miriad
-*** Apply for Job with Amelie 
-**** done
-***** DONE Write CV
-      CLOSED: [2018-12-06 Thu 14:09] SCHEDULED: <2018-12-06 Thu>
+**** TODO Chase up Emally RE paragraph
+*** JWST presentation 25th Jan  
+    SCHEDULED: <2019-01-25 Fri>
+**** TODO Research why we need JWST 
+**** TODO Research what JWST will do
+**** TODO Research how JWST will do it
 ** Work_Tasks                                                         :Tasks:
-*** TODO Check planet for jobs, possibly email directly with updated CV?
 *** TODO Squirtle for Ciaran 
-*** TODO Roberto public speaker 
+*** TODO Health and safety things 
+*** TODO Dave Expenses form 
 * Misc                                                                 :Misc:
- 
+  

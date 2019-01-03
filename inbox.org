@@ -1,17 +1,8 @@
 * Tasks                                                               :Inbox:
 <<<<<<< HEAD
-** TODO Update LinkedIn Profile  
-** TODO CV for normal jobs  
-** DONE Get Laptop Repaired 
-   CLOSED: [2018-12-22 Sat 01:32]
-=======
-** TODO Health and safety things 
-** TODO Jims Job 
-   SCHEDULED: <2018-12-22 Sat>
-** TODO JWST presentation 25th Jan  
-   SCHEDULED: <2019-01-25 Fri>
-** TODO Fox and Sons Passport 
-** TODO Dave Expenses form 
-** TODO Ask events team when you're back 
->>>>>>> 922f7c9eaa8dce1ced81d1c3cfb4592148b7195b
-** TODO Organise Weekend to visit Faye  
+* Physio Wed 1500 23rd Jan (check) 
+* TODO Meetup with Tom in London 
+* TODO Book Piano Lesson 
+* TODO Book Driving Lesson  
+* Hey @TimeOutLondon, you should put *this* in next week's Hot List! A public lecture by Imperial Astrophysics on the Kepler mission, planets around other stars, solar system architectures and exoplanet habitability! 17th Jan! And best of all, it's free! bit.ly/2F3QHuZ 
+  SCHEDULED: <2019-01-10 Thu>
