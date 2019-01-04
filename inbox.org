@@ -1,5 +1,9 @@
 * Tasks                                                               :Inbox:
 <<<<<<< HEAD
+** TODO Update Bertie on results 
+   SCHEDULED: <2019-01-11 Fri>
+** TODO Book Manchester trains 
+** TODO Book Manchester hotel
 * Physio Wed 1500 23rd Jan (check) 
 * TODO Meetup with Tom in London 
 * TODO Book Piano Lesson 
