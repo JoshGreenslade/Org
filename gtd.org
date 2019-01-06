@@ -1,7 +1,7 @@
 * Home                                                          :Home:
 ** Home_Projects                                                  :Projects:
 *** Economical Simulator                                             :EcoSim:
-**** TODO Build Marketplace again. Try to vectorise 
+**** TODO Build Marketplace again. 
 *** Job applications                                                    :Job:
 **** TODO Planet
 **** TODO Terrabotics general job applicaiton  
@@ -14,9 +14,7 @@
 *** Improveyoursocialskills 
 **** TODO Revise Empathy Chapter 
 **** TODO Read Empathy Chapter 
-*** TODO Organise Weekend to visit Faye  
 *** Book Cirque de sol tickets  
-***** TODO Ask Heather if she's certain about going 
 *** PyTorch
 **** TODO Compelte Deep Resid at https://github.com/yunjey/pytorch-tutorial and https://www.kaggle.com/krishanudb/basic-computation-graph-using-pytorch 
 **** TODO Compelte Recurrent at https://github.com/yunjey/pytorch-tutorial and https://www.kaggle.com/krishanudb/basic-computation-graph-using-pytorch 
