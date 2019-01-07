@@ -12,3 +12,5 @@
    SCHEDULED: <2019-01-12 Sat>
 ** Go visit Faye and Liz 
    SCHEDULED: <2019-02-09 Sat>--<2019-02-11 Mon>
+** Meeting with Emily RE end of contract 11:00 AM 
+   SCHEDULED: <2019-01-11 Fri>

@@ -4,6 +4,11 @@
    SCHEDULED: <2019-01-11 Fri>
 ** TODO Book Manchester trains 
 ** TODO Book Manchester hotel
+** TODO spotitt 
+   SCHEDULED: <2019-01-10 Thu>
+** TODO Jingzhem's paper draft  
+** TODO Do tutorial at https://www.youtube.com/watch?v=HzPSVwyP2Y0 
+** TODO Organise Board Games night 
 * Physio Wed 1500 23rd Jan (check) 
 * TODO Meetup with Tom in London 
 * TODO Book Piano Lesson 
