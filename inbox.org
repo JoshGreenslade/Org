@@ -9,6 +9,11 @@
 ** TODO Jingzhem's paper draft  
 ** TODO Do tutorial at https://www.youtube.com/watch?v=HzPSVwyP2Y0 
 ** TODO Organise Board Games night 
+** TODO GeoTutorial at https://github.com/patrickcgray/open-geo-tutorial 
+** TODO SPITZER fluxes for NGP6 
+   SCHEDULED: <2019-01-08 Tue>
+** TODO Email Glen regarding where the fuck my data is = )  
+** TODO Write paper about SMA shiz 
 * Physio Wed 1500 23rd Jan (check) 
 * TODO Meetup with Tom in London 
 * TODO Book Piano Lesson 
