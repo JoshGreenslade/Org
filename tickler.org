@@ -14,3 +14,6 @@
    SCHEDULED: <2019-02-09 Sat>--<2019-02-11 Mon>
 ** Meeting with Emily RE end of contract 11:00 AM 
    SCHEDULED: <2019-01-11 Fri>
+** Bognor Weekend 
+   SCHEDULED: <2019-01-26 Sat>--<2019-01-27 Sun>
+ 
