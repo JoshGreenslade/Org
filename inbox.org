@@ -1,22 +1,13 @@
 * Tasks                                                               :Inbox:
 <<<<<<< HEAD
-** TODO Update Bertie on results 
-   SCHEDULED: <2019-01-11 Fri>
-** TODO Book Manchester trains 
-** TODO Book Manchester hotel
-** TODO spotitt 
-   SCHEDULED: <2019-01-10 Thu>
 ** TODO Jingzhem's paper draft  
-** TODO Do tutorial at https://www.youtube.com/watch?v=HzPSVwyP2Y0 
-** TODO Organise Board Games night 
 ** TODO GeoTutorial at https://github.com/patrickcgray/open-geo-tutorial 
-** TODO SPITZER fluxes for NGP6 
-   SCHEDULED: <2019-01-08 Tue>
-** TODO Email Glen regarding where the fuck my data is = )  
 ** TODO Write paper about SMA shiz 
+** TODO Write short presentation on Planets  
+** TODO Meet up with Adam from LSN 
+** TODO Dave plot redshift NGP6 
+** TODO Hunt for some more jobs 
 * Physio Wed 1500 23rd Jan (check) 
 * TODO Meetup with Tom in London 
 * TODO Book Piano Lesson 
 * TODO Book Driving Lesson  
-* Hey @TimeOutLondon, you should put *this* in next week's Hot List! A public lecture by Imperial Astrophysics on the Kepler mission, planets around other stars, solar system architectures and exoplanet habitability! 17th Jan! And best of all, it's free! bit.ly/2F3QHuZ 
-  SCHEDULED: <2019-01-10 Thu>

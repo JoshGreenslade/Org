@@ -8,12 +8,11 @@
 ** See Kim at some point this week?
    SCHEDULED: <2019-02-04 Mon>
    <2019-02-04 Mon>--<2019-02-08 Thu>
-** Visit Matt and Nic  
-   SCHEDULED: <2019-01-12 Sat>
 ** Go visit Faye and Liz 
    SCHEDULED: <2019-02-09 Sat>--<2019-02-11 Mon>
-** Meeting with Emily RE end of contract 11:00 AM 
-   SCHEDULED: <2019-01-11 Fri>
+** DONE Meeting with Emily RE end of contract 11:00 AM 
+   CLOSED: [2019-01-11 Fri 11:28] SCHEDULED: <2019-01-11 Fri>
 ** Bognor Weekend 
    SCHEDULED: <2019-01-26 Sat>--<2019-01-27 Sun>
- 
+** Selecty Board games night  
+   SCHEDULED: <2019-01-16 Wed>

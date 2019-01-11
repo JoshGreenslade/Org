@@ -3,12 +3,8 @@
 *** Economical Simulator                                             :EcoSim:
 **** TODO Build Marketplace again. 
 *** Job applications                                                    :Job:
-**** TODO Planet
-**** TODO Terrabotics general job applicaiton  
-**** TODO OpenCosmos   
 **** DONE Jims Job 
      CLOSED: [2018-12-29 Sat 18:57] SCHEDULED: <2018-12-22 Sat>
-**** TODO ArchAngel 
 *** Fix Old Chromebook                                        :FixChromebook:
 **** TODO Purchase a SNS4151S3/32G Hard drive
 *** PyTorch
