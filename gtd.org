@@ -43,7 +43,7 @@
 **** TODO Do some branding for 3d printing  
 *** Write NGP6 Dropout Paper                                           :NGP6:
 *** JWST presentation 25th Jan  
-    SCHEDULED: <2019-01-25 Fri>
+    SCHEDULED: <2019-02-01 Fri>
 **** TODO Research why we need JWST 
 **** TODO Research what JWST will do
 **** TODO Research how JWST will do it

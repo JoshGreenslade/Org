@@ -3,10 +3,13 @@
 ** TODO Jingzhem's paper draft  
 ** TODO GeoTutorial at https://github.com/patrickcgray/open-geo-tutorial 
 ** TODO Write paper about SMA shiz 
-** TODO Write short presentation on Planets  
 ** TODO Meet up with Adam from LSN 
-** TODO Dave plot redshift NGP6 
 ** TODO Hunt for some more jobs 
+** TODO GTC OBserving blocks for Helmutc 
+** TODO SpaceOutreach centralised 
+** TODO Five Senses of Space 
+** TODO Cover letter for Archangel 
+** TODO BBC Sky at night 
 * Physio Wed 1500 23rd Jan (check) 
 * TODO Meetup with Tom in London 
 * TODO Book Piano Lesson 
