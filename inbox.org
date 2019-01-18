@@ -3,13 +3,20 @@
 ** TODO Jingzhem's paper draft  
 ** TODO GeoTutorial at https://github.com/patrickcgray/open-geo-tutorial 
 ** TODO Write paper about SMA shiz 
+   SCHEDULED: <2019-01-18 Fri>
 ** TODO Meet up with Adam from LSN 
 ** TODO Hunt for some more jobs 
 ** TODO GTC OBserving blocks for Helmutc 
 ** TODO SpaceOutreach centralised 
-** TODO Five Senses of Space 
-** TODO Cover letter for Archangel 
-** TODO BBC Sky at night 
+** TODO Five Senses of Space (aromatom@mail.com) 
+** TODO Get back to Nilesh 
+   SCHEDULED: <2019-01-17 Thu>
+** TODO Look at isardSAT for Matt  
+** TODO Get back to Jonathan about Youtube of Subus talk 
+** TODO Send some planets to Chris Snowden  
+** TODO Buy and host a blogging website  
+** TODO Buissiness cards 
+** TODO Learn openScad
 * Physio Wed 1500 23rd Jan (check) 
 * TODO Meetup with Tom in London 
 * TODO Book Piano Lesson 
