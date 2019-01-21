@@ -3,34 +3,42 @@
 *** Economical Simulator                                             :EcoSim:
 **** TODO Build Marketplace again. 
 *** Job applications                                                    :Job:
-**** DONE Jims Job 
-     CLOSED: [2018-12-29 Sat 18:57] SCHEDULED: <2018-12-22 Sat>
+**** TODO Hunt for some more jobs 
 *** Fix Old Chromebook                                        :FixChromebook:
 **** TODO Purchase a SNS4151S3/32G Hard drive
 *** PyTorch
 **** TODO Compelte Recurrent at https://github.com/yunjey/pytorch-tutorial and https://www.kaggle.com/krishanudb/basic-computation-graph-using-pytorch 
 **** TODO Compelte Bidirectional at https://github.com/yunjey/pytorch-tutorial and https://www.kaggle.com/krishanudb/basic-computation-graph-using-pytorch 
 **** TODO Compelte Language at https://github.com/yunjey/pytorch-tutorial and https://www.kaggle.com/krishanudb/basic-computation-graph-using-pytorch 
+*** GeoSpatial                                                   :GeoSpatial:
+**** TODO GeoTutorial at https://github.com/patrickcgray/open-geo-tutorial 
 ** Home_Tasks                                                         :Tasks:
 *** TODO Fox and Sons Passport 
-*** DONE CV for normal jobs  
-    CLOSED: [2018-12-29 Sat 14:06] SCHEDULED: <2018-12-28 Fri>
-    - Note taken on [2018-12-28 Fri 17:34] \\
-      Had a first pass, and it's pretty good. But would like to take another look tomorrow
 *** TODO Book Chris and Rutas Wedding Flights+accomidation 
     - Note taken on [2018-12-28 Fri 12:43] \\
       Has to take priority over Tims Wedding
 *** TODO Book accomidation and flights for Tim+Em's Wedding  
 *** TODO Sign TR1 transfer form for Monterey Gardens  
+*** TODO Meet up with Adam from LSN 
+*** TODO Buissiness cards 
+*** TODO Buy and host a blogging website  
+*** TODO Book Piano Lesson 
+*** TODO Book Driving Lesson  
 * Work                                                          :Work:
 ** Work_Projects                                                   :Projects:
 *** Imperial Lates Talks                                 :ImperialLatesTalks:
+**** TODO Get back to Nilesh 
+     SCHEDULED: <2019-01-17 Thu>
+**** TODO Get back to Jonathan about Youtube of Subus talk 
+**** TODO Approach talk for a second Speaker for ImperialLates 
+*** Centralised Outreach                                    :CentralOutreach:
 *** 3D Planet Printing                                       :3dPlanets:
 **** TODO Additional mini-projects
 ***** DONE Print a tiny bulbasaur
       CLOSED: [2018-11-20 Tue 17:53]
 ***** 3d Printed keyrings
-***** Pancake Earth  
+***** DONE Pancake Earth  
+      CLOSED: [2019-01-20 Sun 10:46]
 ***** Discworld Create 
 ***** Earth with borders 
 ***** Majoras Mask Moon 
@@ -41,14 +49,20 @@
 **** TODO maw38.aber.ac.uk, email with models. check pictures too for others 
 **** TODO Email imperial about sending extra goodies alongside the planets
 **** TODO Do some branding for 3d printing  
-*** Write NGP6 Dropout Paper                                           :NGP6:
+**** TODO Send some planets to Chris Snowden  
 *** JWST presentation 25th Jan  
     SCHEDULED: <2019-02-01 Fri>
 **** TODO Research why we need JWST 
 **** TODO Research what JWST will do
 **** TODO Research how JWST will do it
+*** Write paper about SMA shiz 
+    SCHEDULED: <2019-01-18 Fri>
+*** Five Senses of Space (aromatom@mail.com) 
 ** Work_Tasks                                                         :Tasks:
 *** TODO Squirtle for Ciaran 
 *** TODO Dave Expenses form 
+*** TODO Jingzhem's paper draft  
+*** TODO GTC OBserving blocks for Helmutc 
+*** TODO Meetup with Tom in London 
 * Misc                                                                 :Misc:
   
