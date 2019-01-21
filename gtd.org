@@ -21,7 +21,6 @@
 *** TODO Sign TR1 transfer form for Monterey Gardens  
 *** TODO Meet up with Adam from LSN 
 *** TODO Buissiness cards 
-*** TODO Buy and host a blogging website  
 *** TODO Book Piano Lesson 
 *** TODO Book Driving Lesson  
 * Work                                                          :Work:
