@@ -1,6 +1,9 @@
 * Waiting for new info                                              :Waiting:
 
 * Long term goals                                                 :Long:Term:
+** TODO Purchase a SNS4151S3/32G Hard drive
+   - Note taken on [2019-01-23 Wed 15:11] \\
+     Probably not worth fixing for the cost
 * Books                                                               :Books:
 ** Homo Deus: Brief Hist of Tom - Yuah Noal  
 ** The Skripal files - Mark Urban 
