@@ -21,6 +21,7 @@
 *** TODO Meet up with Adam from LSN 
 *** TODO Book Piano Lesson 
 *** TODO Book Driving Lesson  
+*** TODO Deepak RescheduleED: <2019-01-23 Wed>
 * Work                                                          :Work:
 ** Work_Projects                                                   :Projects:
 *** Imperial Lates Talks                                 :ImperialLatesTalks:
@@ -58,7 +59,6 @@
 ** Work_Tasks                                                         :Tasks:
 *** TODO Squirtle for Ciaran 
 *** TODO Dave Expenses form 
-*** TODO Jingzhem's paper draft  
 *** TODO GTC OBserving blocks for Helmutc 
 *** TODO Meetup with Tom in London 
 * Misc                                                                 :Misc:
