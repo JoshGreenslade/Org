@@ -511,3 +511,13 @@ Archived entries from file /home/jgreenslade/Org/inbox.org
   :ARCHIVE_TODO: DONE
   :ARCHIVE_ITAGS: Inbox
   :END:
+
+* TODO Look into how to use emacs and ORG for study notes 
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2019-01-28 Mon 09:44
+  :ARCHIVE_FILE: ~/Org/inbox.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: inbox
+  :ARCHIVE_TODO: TODO
+  :ARCHIVE_ITAGS: Inbox
+  :END:

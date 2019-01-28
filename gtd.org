@@ -17,7 +17,6 @@
     - Note taken on [2018-12-28 Fri 12:43] \\
       Has to take priority over Tims Wedding
 *** TODO Book accomidation and flights for Tim+Em's Wedding  
-*** TODO Sign TR1 transfer form for Monterey Gardens  
 *** TODO Meet up with Adam from LSN 
 *** TODO Book Piano Lesson 
 *** TODO Book Driving Lesson  
@@ -28,7 +27,6 @@
 **** TODO Get back to Nilesh 
      SCHEDULED: <2019-01-17 Thu>
 **** TODO Get back to Jonathan about Youtube of Subus talk 
-**** TODO Approach talk for a second Speaker for ImperialLates 
 *** Centralised Outreach                                    :CentralOutreach:
 *** 3D Planet Printing                                       :3dPlanets:
 **** TODO Additional mini-projects

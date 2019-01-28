@@ -2,3 +2,6 @@
 <<<<<<< HEAD
 ** TODO Blog Post on climate  
 ** TODO Reply to Mary /Ken? Imperial lates  
+** TODO Fast AI Lesson 1 
+   SCHEDULED: <2019-01-28 Mon>
+** TODO Fast AI Lesson 2
