@@ -17,3 +17,11 @@
   [2019-01-27 Sun 18:38]
 ** Chris Impey Talk Thursday 31st Jan 14:15, Room S303A 
    SCHEDULED: <2019-01-31 Thu>
+** DONE Meeting with Hunain 11:00 - 13:00 
+   CLOSED: [2019-01-29 Tue 13:27] SCHEDULED: <2019-01-29 Tue>
+** Doctors appointment 10:30  
+   SCHEDULED: <2019-02-11 Mon>
+** Meeting SPARCS cluster group 16:00  
+   SCHEDULED: <2019-02-11 Mon>
+** Teach Joe XID+ 11:00  
+   SCHEDULED: <2019-01-31 Thu>

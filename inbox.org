@@ -5,3 +5,4 @@
 ** TODO Fast AI Lesson 1 
    SCHEDULED: <2019-01-28 Mon>
 ** TODO Fast AI Lesson 2
+** TODO Train Joe in XID+  
