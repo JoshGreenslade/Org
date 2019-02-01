@@ -1,7 +1,6 @@
 * Tickler
-** See Kim at some point this week?
+** See Kim at 19:00 
    SCHEDULED: <2019-02-04 Mon>
-   <2019-02-04 Mon>--<2019-02-08 Thu>
 ** Go visit Faye and Liz 
    SCHEDULED: <2019-02-09 Sat>--<2019-02-11 Mon>
 ** Journal club  
@@ -9,7 +8,7 @@
 ** Kirsty + Toms Wedding  
    SCHEDULED: <2019-09-06 Fri>
   [2019-01-22 Tue 12:51]
-**  Go Visit Matt  
+** Go Visit Matt  
    SCHEDULED: <2019-03-16 Sat>--<2019-03-17 Sun>
   [2019-01-27 Sun 18:36]
 ** Mum's Wedding in Bognor  
@@ -23,5 +22,3 @@
    SCHEDULED: <2019-02-11 Mon>
 ** Meeting SPARCS cluster group 16:00  
    SCHEDULED: <2019-02-11 Mon>
-** Teach Joe XID+ 11:00  
-   SCHEDULED: <2019-01-31 Thu>

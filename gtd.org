@@ -20,7 +20,8 @@
 *** TODO Meet up with Adam from LSN 
 *** TODO Book Piano Lesson 
 *** TODO Book Driving Lesson  
-*** TODO Deepak RescheduleED: <2019-01-23 Wed>
+*** DONE Deepak RescheduleED: <2019-01-23 Wed>
+    CLOSED: [2019-02-01 Fri 10:07]
 * Work                                                          :Work:
 ** Work_Projects                                                   :Projects:
 *** Imperial Lates Talks                                 :ImperialLatesTalks:
@@ -48,11 +49,14 @@
 **** TODO Send some planets to Chris Snowden  
 *** JWST presentation 25th Jan  
     SCHEDULED: <2019-02-01 Fri>
-**** TODO Research why we need JWST 
-**** TODO Research what JWST will do
-**** TODO Research how JWST will do it
-*** Write paper about SMA shiz 
-    SCHEDULED: <2019-01-18 Fri>
+**** DONE Research why we need JWST 
+     CLOSED: [2019-02-01 Fri 10:06]
+**** DONE Research what JWST will do
+     CLOSED: [2019-02-01 Fri 10:06]
+**** DONE Research how JWST will do it
+     CLOSED: [2019-02-01 Fri 10:07]
+*** DONE Write paper about SMA shiz 
+    CLOSED: [2019-02-01 Fri 10:05] SCHEDULED: <2019-01-18 Fri>
 *** Five Senses of Space (aromatom@mail.com) 
 ** Work_Tasks                                                         :Tasks:
 *** TODO Squirtle for Ciaran 
