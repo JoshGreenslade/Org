@@ -22,3 +22,5 @@
    SCHEDULED: <2019-02-11 Mon>
 ** Meeting SPARCS cluster group 16:00  
    SCHEDULED: <2019-02-11 Mon>
+** Alans Conference  18:00 - 20:00
+   SCHEDULED: <2019-03-21 Thu>

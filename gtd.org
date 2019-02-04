@@ -47,8 +47,8 @@
 **** TODO Email imperial about sending extra goodies alongside the planets
 **** TODO Do some branding for 3d printing  
 **** TODO Send some planets to Chris Snowden  
-*** JWST presentation 25th Jan  
-    SCHEDULED: <2019-02-01 Fri>
+*** DONE JWST presentation 25th Jan  
+    CLOSED: [2019-02-04 Mon 13:45] SCHEDULED: <2019-02-01 Fri>
 **** DONE Research why we need JWST 
      CLOSED: [2019-02-01 Fri 10:06]
 **** DONE Research what JWST will do

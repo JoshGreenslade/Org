@@ -7,3 +7,9 @@
 ** TODO Fast AI Lesson 2
 ** DONE Train Joe in XID+  
    CLOSED: [2019-02-01 Fri 10:07]
+** DONE Ask mum about storing stuff 
+   CLOSED: [2019-02-04 Mon 15:48]
+** DONE Update your CV using the Pivigo tips 
+   CLOSED: [2019-02-04 Mon 15:48]
+** TODO Book Room for Imperial Lates  
+** TODO Fix up todo lists  
