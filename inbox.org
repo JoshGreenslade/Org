@@ -2,14 +2,7 @@
 <<<<<<< HEAD
 ** TODO Blog Post on climate  
 ** TODO Reply to Mary /Ken? Imperial lates  
-** TODO Fast AI Lesson 1 homework: Bees Vs Horses 
-   SCHEDULED: <2019-01-28 Mon>
-** TODO Fast AI Lesson 2
-** DONE Train Joe in XID+  
-   CLOSED: [2019-02-01 Fri 10:07]
-** DONE Ask mum about storing stuff 
-   CLOSED: [2019-02-04 Mon 15:48]
-** DONE Update your CV using the Pivigo tips 
-   CLOSED: [2019-02-04 Mon 15:48]
-** TODO Book Room for Imperial Lates  
+** TODO Fast AI Lesson 2, 1 hour in  
 ** TODO Fix up todo lists  
+** TODO Read through the MIT project  
+** TODO Update CV with reccomendations  
