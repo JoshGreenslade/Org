@@ -1,8 +1,12 @@
 * Tasks                                                               :Inbox:
 <<<<<<< HEAD
-** TODO Blog Post on climate  
-** TODO Reply to Mary /Ken? Imperial lates  
-** TODO Fast AI Lesson 2, 1 hour in  
-** TODO Fix up todo lists  
-** TODO Read through the MIT project  
-** TODO Update CV with reccomendations  
+** TODO Organise Deepak Talk 
+** TODO Email RAS, That guy, Greenwich about schools talks 
+** TODO Mercury on the Zcore 
+** TODO SExtractor on the PACS data for Illustrius 
+** TODO Create 15 minute talk for Kristen 
+** TODO Book train tickets for next week 
+** TODO Edit panopto recording 
+** TODO Different NPIX Planck for LCDM 
+** TODO Email the director about DEEPAK 
+   SCHEDULED: <2019-02-07 Thu>

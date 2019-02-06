@@ -1,16 +1,19 @@
 * Home                                                          :Home:
 ** Home_Projects                                                  :Projects:
 *** Economical Simulator                                             :EcoSim:
-**** TODO Build Marketplace again. 
+**** TODO Get Marketplace Working. 
 *** Job applications                                                    :Job:
-**** TODO Hunt for some more jobs 
+**** Hunt for some more jobs 
+***** TODO Update CV with reccomendations  
 *** Fix Old Chromebook                                        :FixChromebook:
-*** PyTorch
+*** Machine Learning 
 **** TODO Compelte Recurrent at https://github.com/yunjey/pytorch-tutorial and https://www.kaggle.com/krishanudb/basic-computation-graph-using-pytorch 
 **** TODO Compelte Bidirectional at https://github.com/yunjey/pytorch-tutorial and https://www.kaggle.com/krishanudb/basic-computation-graph-using-pytorch 
 **** TODO Compelte Language at https://github.com/yunjey/pytorch-tutorial and https://www.kaggle.com/krishanudb/basic-computation-graph-using-pytorch 
+**** TODO Fast AI Lesson 2, 1 hour in  
 *** GeoSpatial                                                   :GeoSpatial:
 **** TODO GeoTutorial at https://github.com/patrickcgray/open-geo-tutorial 
+*** Blog
 ** Home_Tasks                                                         :Tasks:
 *** TODO Fox and Sons Passport 
 *** TODO Book Chris and Rutas Wedding Flights+accomidation 
@@ -20,14 +23,14 @@
 *** TODO Meet up with Adam from LSN 
 *** TODO Book Piano Lesson 
 *** TODO Book Driving Lesson  
-*** DONE Deepak RescheduleED: <2019-01-23 Wed>
-    CLOSED: [2019-02-01 Fri 10:07]
+*** TODO Update Emplyment details Student Finanance 
 * Work                                                          :Work:
 ** Work_Projects                                                   :Projects:
 *** Imperial Lates Talks                                 :ImperialLatesTalks:
 **** TODO Get back to Nilesh 
      SCHEDULED: <2019-01-17 Thu>
 **** TODO Get back to Jonathan about Youtube of Subus talk 
+**** TODO Reply to Mary /Ken? Imperial lates  
 *** Centralised Outreach                                    :CentralOutreach:
 *** 3D Planet Printing                                       :3dPlanets:
 **** TODO Additional mini-projects
@@ -47,16 +50,6 @@
 **** TODO Email imperial about sending extra goodies alongside the planets
 **** TODO Do some branding for 3d printing  
 **** TODO Send some planets to Chris Snowden  
-*** DONE JWST presentation 25th Jan  
-    CLOSED: [2019-02-04 Mon 13:45] SCHEDULED: <2019-02-01 Fri>
-**** DONE Research why we need JWST 
-     CLOSED: [2019-02-01 Fri 10:06]
-**** DONE Research what JWST will do
-     CLOSED: [2019-02-01 Fri 10:06]
-**** DONE Research how JWST will do it
-     CLOSED: [2019-02-01 Fri 10:07]
-*** DONE Write paper about SMA shiz 
-    CLOSED: [2019-02-01 Fri 10:05] SCHEDULED: <2019-01-18 Fri>
 *** Five Senses of Space (aromatom@mail.com) 
 ** Work_Tasks                                                         :Tasks:
 *** TODO Squirtle for Ciaran 
@@ -65,3 +58,4 @@
 *** TODO Meetup with Tom in London 
 * Misc                                                                 :Misc:
   
+ 
