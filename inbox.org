@@ -6,7 +6,5 @@
 ** TODO SExtractor on the PACS data for Illustrius 
 ** TODO Create 15 minute talk for Kristen 
 ** TODO Book train tickets for next week 
-** TODO Edit panopto recording 
 ** TODO Different NPIX Planck for LCDM 
-** TODO Email the director about DEEPAK 
-   SCHEDULED: <2019-02-07 Thu>
+** TODO Convolutional picture maker, stick online with https://medium.com/@lankinen/fastai-model-to-production-this-is-how-you-make-web-app-that-use-your-model-57d8999450cf 
