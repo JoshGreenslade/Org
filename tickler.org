@@ -1,6 +1,4 @@
 * Tickler
-** Go visit Faye and Liz 
-   SCHEDULED: <2019-02-09 Sat>--<2019-02-11 Mon>
 ** Kirsty + Toms Wedding  
    SCHEDULED: <2019-09-06 Fri>
   [2019-01-22 Tue 12:51]
@@ -10,11 +8,9 @@
 ** Mum's Wedding in Bognor  
    SCHEDULED: <2019-03-09 Sat>--<2019-03-10 Sun>
   [2019-01-27 Sun 18:38]
-** Doctors appointment 10:30  
-   SCHEDULED: <2019-02-11 Mon>
 ** Alans Conference  18:00 - 20:00
    SCHEDULED: <2019-03-21 Thu>
-** Sadie and Race 18:30 - 20:00 http://www.lse.ac.uk/Events/2019/02/20190207t1830vSZT/Racial-Inequality-in-Britain?fbclid=IwAR0-In0XZ-Jkt0l6slTZHBfbTlWA2QdPBnRDtJKGHv-7qNvb79ypCaEk8og
-   SCHEDULED: <2019-02-07 Thu>
 ** LSN  
    SCHEDULED: <2019-02-21 Thu>
+** Sarah's Kid's Christening 12:30 
+   SCHEDULED: <2019-04-07 Sun>

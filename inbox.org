@@ -5,6 +5,13 @@
 ** TODO Mercury on the Zcore 
 ** TODO SExtractor on the PACS data for Illustrius 
 ** TODO Create 15 minute talk for Kristen 
+   SCHEDULED: <2019-02-11 Mon>
 ** TODO Book train tickets for next week 
 ** TODO Different NPIX Planck for LCDM 
-** TODO Convolutional picture maker, stick online with https://medium.com/@lankinen/fastai-model-to-production-this-is-how-you-make-web-app-that-use-your-model-57d8999450cf 
+** TODO 11:00 Convolutional picture maker, stick online with https://medium.com/@lankinen/fastai-model-to-production-this-is-how-you-make-web-app-that-use-your-model-57d8999450cf 
+   SCHEDULED: <2019-02-12 Tue>
+** TODO Discuss with Mark Richards about recording of events (blackett 314) 
+** TODO Visit Kai in bognor on next visit
+** TODO Dr Ian Levy
+** TODO Chapter 2, 2.8 of probabilty 16:00 
+   SCHEDULED: <2019-02-12 Tue>
