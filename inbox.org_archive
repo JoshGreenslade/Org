@@ -663,3 +663,35 @@ Archived entries from file /home/jgreenslade/Org/inbox.org
   :ARCHIVE_TODO: TODO
   :ARCHIVE_ITAGS: Inbox
   :END:
+
+* TODO Book train tickets for next week 
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2019-02-13 Wed 10:38
+  :ARCHIVE_FILE: ~/Org/inbox.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: inbox
+  :ARCHIVE_TODO: TODO
+  :ARCHIVE_ITAGS: Inbox
+  :END:
+
+* TODO Create 15 minute talk for Kristen 
+  SCHEDULED: <2019-02-11 Mon>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2019-02-13 Wed 10:38
+  :ARCHIVE_FILE: ~/Org/inbox.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: inbox
+  :ARCHIVE_TODO: TODO
+  :ARCHIVE_ITAGS: Inbox
+  :END:
+
+* DONE 11:00 Convolutional picture maker, stick online with https://medium.com/@lankinen/fastai-model-to-production-this-is-how-you-make-web-app-that-use-your-model-57d8999450cf 
+  CLOSED: [2019-02-14 Thu 14:22] SCHEDULED: <2019-02-12 Tue>
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2019-02-14 Thu 14:22
+  :ARCHIVE_FILE: ~/Org/inbox.org
+  :ARCHIVE_OLPATH: Tasks
+  :ARCHIVE_CATEGORY: inbox
+  :ARCHIVE_TODO: DONE
+  :ARCHIVE_ITAGS: Inbox
+  :END:
