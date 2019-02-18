@@ -1,7 +1,7 @@
 * Tasks                                                               :Inbox:
 <<<<<<< HEAD
-** TODO Organise Deepak Talk 
-** TODO Email RAS, That guy, about schools talks 
+** DONE Email RAS, That guy, about schools talks 
+   CLOSED: [2019-02-18 Mon 11:19]
 ** TODO Mercury on the Zcore 
 ** TODO SExtractor on the PACS data for Illustrius 
 ** TODO Different NPIX Planck for LCDM 
@@ -12,3 +12,5 @@
    SCHEDULED: <2019-02-12 Tue>
 ** TODO Twitter API for warhammer thoughts of the day  
 ** TODO Respond to james Linkedin 
+** TODO Reduce VLT data  
+** TODO Make a google doctument for philippe  
