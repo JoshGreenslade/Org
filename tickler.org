@@ -10,8 +10,6 @@
   [2019-01-27 Sun 18:38]
 ** Alans Conference  18:00 - 20:00
    SCHEDULED: <2019-03-21 Thu>
-** LSN  
-   SCHEDULED: <2019-02-21 Thu>
 ** Sarah's Kid's Christening 12:30 
    SCHEDULED: <2019-04-07 Sun>
 ** Brief History of time, Parliament 18:00 
@@ -20,3 +18,5 @@
    SCHEDULED: <2019-03-07 Thu>
 ** Smash Torney 17:30 
    SCHEDULED: <2019-02-25 Mon>
+** Drs Appointment 10:10 
+   SCHEDULED: <2019-03-08 Fri>
