@@ -14,14 +14,12 @@
 **** TODO GeoTutorial at https://github.com/patrickcgray/open-geo-tutorial 
 *** Blog
 ** Home_Tasks                                                         :Tasks:
-*** TODO Fox and Sons Passport 
 *** TODO Book Chris and Rutas Wedding Flights+accomidation 
     - Note taken on [2018-12-28 Fri 12:43] \\
       Has to take priority over Tims Wedding
 *** TODO Book accomidation and flights for Tim+Em's Wedding  
 *** TODO Book Piano Lesson 
 *** TODO Book Driving Lesson  
-*** TODO Update Emplyment details Student Finanance 
 * Work                                                          :Work:
 ** Work_Projects                                                   :Projects:
 *** Imperial Lates Talks                                 :ImperialLatesTalks:
@@ -32,7 +30,6 @@
 ** Work_Tasks                                                         :Tasks:
 *** TODO Squirtle for Ciaran 
 *** TODO Dave Expenses form 
-*** TODO GTC OBserving blocks for Helmutc 
 * Misc                                                                 :Misc:
   
  

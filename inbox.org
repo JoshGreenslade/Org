@@ -4,11 +4,9 @@
    CLOSED: [2019-02-18 Mon 11:19]
 ** TODO Mercury on the Zcore 
 ** TODO Different NPIX Planck for LCDM 
-** TODO Discuss with Mark Richards about recording of events (blackett 314) 
 ** TODO Visit Kai in bognor on next visit
 ** TODO Chapter 2, Problems  
    SCHEDULED: <2019-02-12 Tue>
 ** TODO Twitter API for warhammer thoughts of the day  
-** TODO Respond to james Linkedin 
 ** TODO Reduce VLT data  
 ** TODO Advertisement for Deepaks Talk 
